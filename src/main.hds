@@ -2,12 +2,12 @@
 #  
 [name] unnamed
 [components]
-hades.models.rtlib.io.IpinVector Exponent-B 89700 -26250 @N 1001 5 11110_B 1.0E-8 0
-hades.models.rtlib.io.IpinVector Exponent-A 89700 -28050 @N 1001 5 10010_B 1.0E-8 0
+hades.models.rtlib.io.IpinVector Exponent-B 89700 -26250 @N 1001 5 11101_B 1.0E-8 0
+hades.models.rtlib.io.IpinVector Exponent-A 89700 -28050 @N 1001 5 10001_B 1.0E-8 0
 hades.models.rtlib.io.ExpandBit i69 62250 -10800 @N 1001 1 1.0E-8
 hades.models.rtlib.io.ExpandBit i68 57750 -16350 @N 1001 1 1.0E-8
-hades.models.rtlib.logic.N1And i67 -27600 18750 @N 1001 16 1100100000000000_B 1.0E-8
-hades.models.rtlib.logic.N1And i66 -23850 18750 @N 1001 16 0111101111111111_B 1.0E-8
+hades.models.rtlib.logic.N1And i67 -27600 18750 @N 1001 16 0100011111111111_B 1.0E-8
+hades.models.rtlib.logic.N1And i66 -23850 18750 @N 1001 16 0111010000000000_B 1.0E-8
 hades.models.rtlib.io.Expander i65 97800 -900 @N 1001 7 1.0E-8
 hades.models.rtlib.io.Expander i64 102600 -900 @N 1001 7 1.0E-8
 hades.models.rtlib.io.Expander i63 107250 -900 @N 1001 7 1.0E-8
@@ -20,9 +20,9 @@ hades.models.rtlib.logic.N1And i59 -10200 33000 @N 1001 16 0000000000000000_B 1.
 hades.models.rtlib.logic.N1And i58 -12600 18600 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i57 -9000 18600 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i56 0 33000 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.rtlib.io.IpinVector Mantissa-B 96900 -26400 @N 1001 10 1111111111_B 1.0E-8 0
+hades.models.rtlib.io.IpinVector Mantissa-B 96900 -26400 @N 1001 10 0000000000_B 1.0E-8 0
 hades.models.rtlib.logic.N1And i55 -2400 18600 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.rtlib.io.IpinVector Mantissa-A 96900 -28050 @N 1001 10 0000000000_B 1.0E-8 0
+hades.models.rtlib.io.IpinVector Mantissa-A 96900 -28050 @N 1001 10 1111111111_B 1.0E-8 0
 hades.models.rtlib.logic.N1And i54 1200 18600 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i53 10200 33600 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i52 7800 18600 @N 1001 16 0000000000000000_B 1.0E-8
@@ -44,9 +44,9 @@ hades.models.rtlib.logic.N1And i45 27000 18000 @N 1001 16 0000000000000000_B 1.0
 hades.models.rtlib.logic.N1And i44 30600 18000 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i43 37800 33600 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i42 35400 17400 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.rtlib.io.Merge3 i41 68250 -8400 @N 1001 16 1 5 10 0111101111111111_B 1.0E-8
+hades.models.rtlib.io.Merge3 i41 68250 -8400 @N 1001 16 1 5 10 0111010000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i40 39000 17400 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.rtlib.arith.TwosComplement i175 -900 123300 @N 1001 5 10001_B 1.0E-8
+hades.models.rtlib.arith.TwosComplement i175 -900 123300 @N 1001 5 10010_B 1.0E-8
 hades.models.rtlib.io.Expander i173 128700 -29100 @N 1001 7 1.0E-8
 hades.models.io.SevenSegment i172 123150 -27000 @N 1001
 hades.models.Design Double_Dabble_4_Bit29 84000 74550 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
@@ -65,7 +65,7 @@ hades.models.rtlib.logic.N1And i38 48000 16800 @N 1001 16 0000000000000000_B 1.0
 hades.models.Design Double_Dabble_4_Bit21 72900 72000 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
 hades.models.rtlib.logic.N1And i37 45600 33600 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.Design Double_Dabble_4_Bit20 78450 71400 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.rtlib.io.Merge3 i36 60150 -12900 @N 1001 16 1 5 10 1100100000000000_B 1.0E-8
+hades.models.rtlib.io.Merge3 i36 60150 -12900 @N 1001 16 1 5 10 0100011111111111_B 1.0E-8
 hades.models.rtlib.io.Expander i35 117000 -900 @N 1001 7 1.0E-8
 hades.models.rtlib.logic.N1And i34 54600 33600 @N 1001 16 0000000000110001_B 1.0E-8
 hades.models.rtlib.io.Expander i33 -15000 60750 @N 1001 16 1.0E-8
@@ -73,7 +73,7 @@ hades.models.rtlib.io.OpinVector A_\u0028como_INT\u0029 96150 -20850 @N 1001 16 
 hades.models.io.SevenSegment i32 111450 2250 @N 1001
 hades.models.io.SevenSegment i31 114000 2250 @N 1001
 hades.models.rtlib.muxes.Mux21 i30 -15300 56850 @N 1001 16 0000000000110001_B 1.0E-8
-hades.models.rtlib.muxes.Mux21 i167 1650 126000 @N 1001 5 01111_B 1.0E-8
+hades.models.rtlib.muxes.Mux21 i167 1650 126000 @N 1001 5 01110_B 1.0E-8
 hades.models.rtlib.io.MergeBits i164 4050 118350 @N 1001 5 1.0E-8
 hades.models.Design Double_Dabble_4_Bit19 84000 70800 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
 hades.models.Design Double_Dabble_4_Bit18 89400 70200 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
@@ -142,31 +142,31 @@ hades.models.io.Gnd i148 -8250 120300 @N 1001
 hades.models.meta.Label Para15 71100 -34650 @N 1001 1 0 10 0 16 0.0 4 En\u0020el\u0020DISPLAY\u0020un\u0020EXPONENTE\u0020de\u002016\u0020representa\u0020NaN\u002c\u0020INF\u0020o\u0020-INF
 hades.models.rtlib.compare.CompareLess i147 -3000 120900 @N 1001 5 0 1.0E-8
 hades.models.meta.Label Para14 121950 -24450 @N 1001 1 0 10 0 50 0.0 4 \u002a
-hades.models.rtlib.arith.Sub i146 1050 120300 @N 1001 5 01111_B 1.0E-8
+hades.models.rtlib.arith.Sub i146 1050 120300 @N 1001 5 01110_B 1.0E-8
 hades.models.meta.Label Para13 71100 -35700 @N 1001 1 0 10 0 16 0.0 4 de\u0020acuerdo\u0020con\u0020IEEE-754\u002c\u0020el\u0020exponente\u0020no\u0020tiene\u0020signo\u0020y\u0020sesgado\u002015\u0020unidades\u002c\u0020es\u0020decir\u0020un\u0020exponente\u0020de\u002015\u0020es\u0020\u003d\u00200\u0020uno\u0020de\u002030\u0020es\u0020\u003d\u002015\u0020y\u0020uno\u0020de\u00200\u0020\u003d\u0020-15
 hades.models.rtlib.io.Subset i145 12150 108000 @N 1001 14 13 10 0000_B 1.0E-8
 hades.models.meta.Label Para12 99450 -10050 @N 1001 1 0 10 0 16 0.0 4 La\u0020variable\u0020A\u0020es\u0020el\u0020de\u0020operando\u0020de\u0020la\u0020izquierda\u0020para\u0020todas\u0020las\u0020operaciones\u0020soportadas
-hades.models.rtlib.logic.BitwiseAnd i144 13950 104700 @N 1001 14 00000011110000_B 1.0E-8
-hades.models.rtlib.arith.Add i143 7950 104550 @N 1001 14 00000011110000_B 1.0E-8
+hades.models.rtlib.logic.BitwiseAnd i144 13950 104700 @N 1001 14 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.Add i143 7950 104550 @N 1001 14 00000000000000_B 1.0E-8
 hades.models.meta.Label Para11 99450 -9150 @N 1001 1 0 10 0 16 0.0 4 ALU\u0020de\u002016\u0020bits
-hades.models.rtlib.arith.ShiftLeft i142 5100 104550 @N 1001 14 1 00000011000000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i142 5100 104550 @N 1001 14 1 00000000000000_B 1.0E-8
 hades.models.meta.Label Para10 97350 -10050 @N 1001 1 0 10 0 16 0.0 4 NOTA:
 hades.models.meta.Label Para 97350 -11100 @N 1001 1 0 10 0 16 0.0 4 Operaciones\u0020soportadas\u0020por\u0020el\u0020ALU\u0020con\u0020su\u0020respectivo\u0020codigo\u0020de\u0020slecci\u00f3n\u0020\u0028Select_Operation\u0029:
-hades.models.rtlib.arith.ShiftLeft i141 450 104550 @N 1001 14 1 00000001100000_B 1.0E-8
-hades.models.rtlib.arith.ShiftLeft i140 -4050 104550 @N 1001 14 1 00000000110000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i141 450 104550 @N 1001 14 1 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i140 -4050 104550 @N 1001 14 1 00000000000000_B 1.0E-8
 hades.models.io.Ipin Prender_Display1 96900 -22950 @N 1001  U
-hades.models.rtlib.io.Subset i139 12150 102000 @N 1001 14 13 10 1001_B 1.0E-8
-hades.models.rtlib.logic.BitwiseAnd i138 13950 98700 @N 1001 14 00000000011000_B 1.0E-8
-hades.models.rtlib.arith.Add i137 7950 98550 @N 1001 14 10010000011000_B 1.0E-8
-hades.models.rtlib.arith.ShiftLeft i136 5100 98700 @N 1001 14 1 01110011100000_B 1.0E-8
-hades.models.rtlib.arith.ShiftLeft i135 750 98700 @N 1001 14 1 00111001110000_B 1.0E-8
-hades.models.rtlib.arith.ShiftLeft i134 -3900 98700 @N 1001 14 1 00011100111000_B 1.0E-8
-hades.models.rtlib.logic.BitwiseAnd i133 13950 93300 @N 1001 14 00001110011100_B 1.0E-8
-hades.models.rtlib.io.Subset i132 12450 96000 @N 1001 14 13 10 1001_B 1.0E-8
-hades.models.rtlib.arith.Add i131 8250 92850 @N 1001 14 10011110011100_B 1.0E-8
-hades.models.rtlib.arith.ShiftLeft i130 5250 93000 @N 1001 14 1 01111110110000_B 1.0E-8
-hades.models.rtlib.arith.ShiftLeft i129 750 92850 @N 1001 14 1 00111111011000_B 1.0E-8
-hades.models.rtlib.arith.ShiftLeft i128 -3900 92850 @N 1001 14 1 00011111101100_B 1.0E-8
+hades.models.rtlib.io.Subset i139 12150 102000 @N 1001 14 13 10 0000_B 1.0E-8
+hades.models.rtlib.logic.BitwiseAnd i138 13950 98700 @N 1001 14 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.Add i137 7950 98550 @N 1001 14 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i136 5100 98700 @N 1001 14 1 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i135 750 98700 @N 1001 14 1 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i134 -3900 98700 @N 1001 14 1 00000000000000_B 1.0E-8
+hades.models.rtlib.logic.BitwiseAnd i133 13950 93300 @N 1001 14 00000000000000_B 1.0E-8
+hades.models.rtlib.io.Subset i132 12450 96000 @N 1001 14 13 10 0000_B 1.0E-8
+hades.models.rtlib.arith.Add i131 8250 92850 @N 1001 14 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i130 5250 93000 @N 1001 14 1 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i129 750 92850 @N 1001 14 1 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i128 -3900 92850 @N 1001 14 1 00000000000000_B 1.0E-8
 hades.models.rtlib.io.ExpanderVertical i127 26100 120150 @N 1001 4 1.0E-8
 hades.models.gates.InvSmall i126 16050 118500 @N 1001 5.0E-9
 hades.models.gates.InvSmall i125 16050 117450 @N 1001 5.0E-9
@@ -183,7 +183,7 @@ hades.models.Design Double_Dabble_4_Bit9 67350 69150 @N 1001 /Users/luccalabatta
 hades.models.rtlib.io.ExpanderVertical i115 25200 88200 @N 1001 4 1.0E-8
 hades.models.Design Double_Dabble_4_Bit8 72900 68550 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
 hades.models.Design unnamed9 131250 102000 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.rtlib.io.Subset i114 13350 88200 @N 1001 14 13 10 1001_B 1.0E-8
+hades.models.rtlib.io.Subset i114 13350 88200 @N 1001 14 13 10 0000_B 1.0E-8
 hades.models.Design Double_Dabble_4_Bit7 78450 67950 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
 hades.models.Design unnamed8 131250 97800 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
 hades.models.io.Vcc i113 28950 75900 @N 1001
@@ -192,7 +192,7 @@ hades.models.Design unnamed7 131250 93450 @N 1001 /Users/luccalabattaglia/Univer
 hades.models.io.Gnd i112 15300 76950 @N 1001
 hades.models.Design Double_Dabble_4_Bit5 89400 66600 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
 hades.models.Design unnamed6 130950 88500 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.rtlib.logic.BitwiseAnd i111 15150 85350 @N 1001 14 00001111110110_B 1.0E-8
+hades.models.rtlib.logic.BitwiseAnd i111 15150 85350 @N 1001 14 00000000000000_B 1.0E-8
 hades.models.Design unnamed5 -25800 24150 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/16bit_Float_sum.hds
 hades.models.Design Double_Dabble_4_Bit4 100350 65400 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
 hades.models.rtlib.io.MergeBits i110 17850 76950 @N 1001 14 1.0E-8
@@ -204,14 +204,14 @@ hades.models.Design unnamed2 130950 65100 @N 1001 /Users/luccalabattaglia/Univer
 hades.models.Design Double_Dabble_4_Bit1 94800 66000 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
 hades.models.Design unnamed1 130950 59400 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
 hades.models.Design Double_Dabble_4_Bit 117600 63600 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.rtlib.arith.Add i109 9000 85050 @N 1001 14 10011111110110_B 1.0E-8
-hades.models.rtlib.arith.ShiftLeft i108 5700 85500 @N 1001 14 1 01111111111000_B 1.0E-8
+hades.models.rtlib.arith.Add i109 9000 85050 @N 1001 14 00000000000000_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i108 5700 85500 @N 1001 14 1 00000000000000_B 1.0E-8
 hades.models.io.SevenSegment i99 106200 -27000 @N 1001
-hades.models.rtlib.arith.ShiftLeft i107 1200 85500 @N 1001 14 1 00111111111100_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i107 1200 85500 @N 1001 14 1 00000000000000_B 1.0E-8
 hades.models.io.SevenSegment i98 108750 -27000 @N 1001
 hades.models.rtlib.io.ExpandBit i106 -1050 80850 @N 1001 2 1.0E-8
 hades.models.io.Vcc i105 8100 109650 @N 1001
-hades.models.rtlib.arith.ShiftLeft i97 -3600 85500 @N 1001 14 1 00011111111110_B 1.0E-8
+hades.models.rtlib.arith.ShiftLeft i97 -3600 85500 @N 1001 14 1 00000000000000_B 1.0E-8
 hades.models.rtlib.io.MergeBits i104 9150 110850 @N 1001 4 1.0E-8
 hades.models.io.SevenSegment i96 133500 -27000 @N 1001
 hades.models.io.SevenSegment i95 130950 -27000 @N 1001
@@ -234,7 +234,7 @@ hades.models.rtlib.io.Expander i85 16500 128550 @N 1001 5 1.0E-8
 hades.models.rtlib.io.MergeBits i84 -11250 80850 @N 1001 10 1.0E-8
 hades.models.io.Gnd i83 36000 74100 @N 1001
 hades.models.Design unnamed13 30450 120150 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.rtlib.io.Merge3 i82 -11250 83250 @N 1001 14 2 2 10 00001111111111_B 1.0E-8
+hades.models.rtlib.io.Merge3 i82 -11250 83250 @N 1001 14 2 2 10 00000000000000_B 1.0E-8
 hades.models.Design unnamed12 51150 133950 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
 hades.models.rtlib.io.Expander i81 138900 -29100 @N 1001 7 1.0E-8
 hades.models.Design unnamed11 51150 130200 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
