@@ -1,20 +1,10 @@
-hades.symbols.BboxRectangle  0 0 4800 4200
-hades.symbols.Rectangle  0 0 4800 4200
-hades.symbols.PortLabel 4650 1350 3 i15
-hades.symbols.PortSymbol 4800 1200 i15
-hades.symbols.PortLabel 4650 750 3 i324
-hades.symbols.PortSymbol 4800 600 i324
-hades.symbols.PortLabel 150 3750 i319
-hades.symbols.PortSymbol 0 3600 i319
-hades.symbols.PortLabel 150 3150 i318
-hades.symbols.PortSymbol 0 3000 i318
-hades.symbols.PortLabel 150 2550 i317
-hades.symbols.PortSymbol 0 2400 i317
-hades.symbols.PortLabel 150 1950 i316
-hades.symbols.PortSymbol 0 1800 i316
+hades.symbols.BboxRectangle  0 0 4800 1800
+hades.symbols.Rectangle  0 0 4800 1800
+hades.symbols.PortLabel 4650 750 3 i15
+hades.symbols.PortSymbol 4800 600 i15
 hades.symbols.PortLabel 150 1350 i3
 hades.symbols.PortSymbol 0 1200 i3
 hades.symbols.PortLabel 150 750 i0
 hades.symbols.PortSymbol 0 600 i0
-hades.symbols.InstanceLabel 150 4050 unnamed
-hades.symbols.ClassLabel 150 450 unnamed
+hades.symbols.InstanceLabel 150 1650 Float16\u002c_Adder/Subtracter
+hades.symbols.ClassLabel 150 450 Float16\u002c_Adder/Subtracter
