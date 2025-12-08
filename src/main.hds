@@ -15,7 +15,6 @@ hades.models.rtlib.io.OpinVector Para_corroborar_operaciones_flotantes 96150 -17
 hades.models.rtlib.io.Expander i62 112200 -900 @N 1001 7 1.0E-8
 hades.models.gates.Nor2 i61 16200 55200 @N 1001 1.0E-8
 hades.models.gates.Nor2 i60 600 44400 @N 1001 1.0E-8
-hades.models.io.Ipin Prender_Display 77100 10800 @N 1001 null U
 hades.models.rtlib.logic.N1And i59 -10200 33000 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i58 -12600 18600 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i57 -9000 18600 @N 1001 16 0000000000000000_B 1.0E-8
@@ -29,17 +28,17 @@ hades.models.rtlib.logic.N1And i52 7800 18600 @N 1001 16 0000000000000000_B 1.0E
 hades.models.rtlib.logic.N1And i51 11400 18600 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i50 20400 33600 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.io.OpinVector Para_corroborar_operaciones 97800 14400 @N 1001 16 1.0E-9 0
-hades.models.Design Double_Dabble_4_Bit36 35550 131400 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit35 40950 130500 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit34 117750 78300 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit36 36150 131400 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit35 42300 130500 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit34 50100 71100 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.logic.N1And i49 17400 18600 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.Design Double_Dabble_4_Bit33 100650 76350 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit33 56250 70650 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.logic.N1And i48 21600 18600 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.Design Double_Dabble_4_Bit32 106200 75750 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit32 62700 69900 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.gates.Nor2 i47 32400 44400 @N 1001 1.0E-8
-hades.models.Design Double_Dabble_4_Bit31 112050 75150 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit31 68100 69000 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.logic.N1And i46 29400 33600 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.Design Double_Dabble_4_Bit30 117600 74550 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit30 67950 72450 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.logic.N1And i45 27000 18000 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i44 30600 18000 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.logic.N1And i43 37800 33600 @N 1001 16 0000000000000000_B 1.0E-8
@@ -49,22 +48,22 @@ hades.models.rtlib.logic.N1And i40 39000 17400 @N 1001 16 0000000000000000_B 1.0
 hades.models.rtlib.arith.TwosComplement i175 -900 123300 @N 1001 5 10010_B 1.0E-8
 hades.models.rtlib.io.Expander i173 128700 -29100 @N 1001 7 1.0E-8
 hades.models.io.SevenSegment i172 124050 -26850 @N 1001
-hades.models.Design Double_Dabble_4_Bit29 84000 74550 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit28 89400 73950 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit27 94800 73350 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit29 73500 68400 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit28 73350 71850 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit27 78900 71250 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.io.OpinVector B_\u0028Como_INT\u0029 96150 -19650 @N 1001 16 1.0E-9 1
-hades.models.Design Double_Dabble_4_Bit26 100350 72750 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit25 106050 72150 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit26 78900 67800 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit25 84300 67200 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.io.Ipin Sign-B 81900 -26250 @N 1001  U
-hades.models.Design Double_Dabble_4_Bit24 112050 71550 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit24 84300 74550 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.io.Ipin Sign-A 81750 -28050 @N 1001  U
-hades.models.Design Double_Dabble_4_Bit23 117600 70950 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit23 84150 70800 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.logic.N1And i39 44400 16800 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.Design Double_Dabble_4_Bit22 67350 72600 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit22 89850 73950 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.logic.N1And i38 48000 16800 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.Design Double_Dabble_4_Bit21 72900 72000 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit21 89850 70200 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.logic.N1And i37 45600 33600 @N 1001 16 0000000000000000_B 1.0E-8
-hades.models.Design Double_Dabble_4_Bit20 78450 71400 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit20 89850 66600 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.io.Merge3 i36 60150 -12900 @N 1001 16 1 5 10 0100011111111111_B 1.0E-8
 hades.models.rtlib.io.Expander i35 117000 -900 @N 1001 7 1.0E-8
 hades.models.rtlib.logic.N1And i34 54600 33600 @N 1001 16 0000000000110001_B 1.0E-8
@@ -75,20 +74,21 @@ hades.models.io.SevenSegment i31 114600 2250 @N 1001
 hades.models.rtlib.muxes.Mux21 i30 -15300 56850 @N 1001 16 0000000000110001_B 1.0E-8
 hades.models.rtlib.muxes.Mux21 i167 1650 126000 @N 1001 5 01110_B 1.0E-8
 hades.models.rtlib.io.MergeBits i164 4050 118350 @N 1001 5 1.0E-8
-hades.models.Design Double_Dabble_4_Bit19 84000 70800 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit18 89400 70200 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit17 94800 69600 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit16 100350 69000 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit15 106050 68400 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit14 111900 67800 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design Double_Dabble_4_Bit13 117600 67200 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.io.Ipin Prender_Displays 99900 -13350 @N 1001 null U
+hades.models.Design Double_Dabble_4_Bit19 95400 66000 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit18 95550 69600 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit17 95700 73350 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit16 101100 76350 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit15 101100 72750 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit14 100950 69000 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit13 106800 75750 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.io.Gnd i29 124350 82650 @N 1001
-hades.models.Design Double_Dabble_4_Bit12 49800 71100 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit12 106800 72150 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.muxes.Mux21 i28 27600 55200 @N 1001 16 0000000000110001_B 1.0E-8
-hades.models.Design Double_Dabble_4_Bit11 55650 70350 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit11 106650 68400 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.gates.Or2 i27 7200 45600 @N 1001 1.0E-8
 hades.models.rtlib.io.ExpandBit i9 -9600 30000 @N 1001 16 1.0E-8
-hades.models.Design Double_Dabble_4_Bit10 61800 69750 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit10 100800 65400 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.muxes.Mux21 i26 -600 37800 @N 1001 16 0000000000000000_B 1.0E-8
 hades.models.rtlib.io.ExpandBit i8 600 30000 @N 1001 16 1.0E-8
 hades.models.rtlib.muxes.Mux21 i25 13200 45600 @N 1001 16 0000000000000000_B 1.0E-8
@@ -154,7 +154,6 @@ hades.models.rtlib.arith.ShiftLeft i142 5100 104550 @N 1001 14 1 01111101000000_
 hades.models.rtlib.arith.ShiftLeft i141 450 104550 @N 1001 14 1 00111110100000_B 1.0E-8
 hades.models.meta.Label Para 97350 -11100 @N 1001 1 0 10 0 16 0.0 4 Operaciones\u0020soportadas\u0020por\u0020el\u0020ALU\u0020con\u0020su\u0020respectivo\u0020codigo\u0020de\u0020slecci\u00f3n\u0020\u0028Select_Operation\u0029:
 hades.models.rtlib.arith.ShiftLeft i140 -4050 104550 @N 1001 14 1 00011111010000_B 1.0E-8
-hades.models.io.Ipin Prender_Display1 96900 -22950 @N 1001 null U
 hades.models.rtlib.io.Subset i139 12150 102000 @N 1001 14 13 10 0000_B 1.0E-8
 hades.models.rtlib.logic.BitwiseAnd i138 13950 98700 @N 1001 14 00001111101000_B 1.0E-8
 hades.models.rtlib.arith.Add i137 7950 98550 @N 1001 14 00001111101000_B 1.0E-8
@@ -178,32 +177,31 @@ hades.models.rtlib.io.ExpanderVertical i120 24900 97500 @N 1001 4 1.0E-8
 hades.models.rtlib.io.ExpanderVertical i119 25050 93000 @N 1001 4 1.0E-8
 hades.models.gates.Or6 i118 17100 119850 @N 1001 1.0E-8
 hades.models.io.Gnd i117 1350 110250 @N 1001
-hades.models.Design Double_Dabble_4_Bit9 67350 69150 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
 hades.models.rtlib.io.ExpandBit i116 2550 110700 @N 1001 4 1.0E-8
-hades.models.Design unnamed9 131250 102000 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.Design Double_Dabble_4_Bit8 72900 68550 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design Double_Dabble_4_Bit9 106500 64800 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.io.ExpanderVertical i115 25200 88200 @N 1001 4 1.0E-8
-hades.models.Design unnamed8 131250 97800 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.Design Double_Dabble_4_Bit7 78450 67950 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design unnamed9 132000 102000 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
+hades.models.Design Double_Dabble_4_Bit8 112200 75150 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.io.Subset i114 13350 88200 @N 1001 14 13 10 0000_B 1.0E-8
-hades.models.Design unnamed7 131250 93450 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.Design Double_Dabble_4_Bit6 84000 67200 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design unnamed8 132000 97800 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
+hades.models.Design Double_Dabble_4_Bit7 112200 71550 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.io.Vcc i113 28950 75900 @N 1001
-hades.models.Design unnamed6 130950 88500 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.Design Double_Dabble_4_Bit5 89400 66600 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design unnamed7 131850 93450 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
+hades.models.Design Double_Dabble_4_Bit6 117450 78300 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.io.Gnd i112 15300 76950 @N 1001
-hades.models.Design Double_Dabble_4_Bit4 100350 65400 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design unnamed5 -25800 24150 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/16bit_Float_sum.hds
+hades.models.Design unnamed6 131400 88500 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
+hades.models.Design Double_Dabble_4_Bit5 117450 74550 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.logic.BitwiseAnd i111 15150 85350 @N 1001 14 00000000001010_B 1.0E-8
-hades.models.Design Double_Dabble_4_Bit3 106050 64800 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design unnamed4 131100 79200 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
+hades.models.Design Double_Dabble_4_Bit4 112050 67800 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.io.MergeBits i110 17850 76950 @N 1001 14 1.0E-8
-hades.models.Design Double_Dabble_4_Bit2 111900 64200 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design unnamed3 131100 74400 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.Design Double_Dabble_4_Bit1 94800 66000 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
-hades.models.Design unnamed2 130950 65100 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.Design unnamed1 130950 59400 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
-hades.models.Design Double_Dabble_4_Bit 117600 63600 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/DoubleDaddle4bit.hds
+hades.models.Design unnamed4 131250 79200 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
+hades.models.Design Double_Dabble_4_Bit3 117450 70950 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design unnamed3 131400 74400 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
+hades.models.Design Double_Dabble_4_Bit2 117450 67200 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design unnamed2 131550 70050 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
+hades.models.Design Double_Dabble_4_Bit1 111900 64200 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
+hades.models.Design unnamed1 131100 59400 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
+hades.models.Design Double_Dabble_4_Bit 117450 63600 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/DoubleDaddle4bit.hds
 hades.models.rtlib.arith.Add i109 9000 85050 @N 1001 14 00000000001010_B 1.0E-8
 hades.models.rtlib.arith.ShiftLeft i108 5700 85500 @N 1001 14 1 00000000001000_B 1.0E-8
 hades.models.rtlib.arith.ShiftLeft i107 1200 85500 @N 1001 14 1 00000000000100_B 1.0E-8
@@ -223,23 +221,24 @@ hades.models.rtlib.muxes.Mux21 i101 23250 108600 @N 1001 4 0001_B 1.0E-8
 hades.models.io.SevenSegment i100 129300 -26850 @N 1001
 hades.models.io.SevenSegment i92 126600 -26850 @N 1001
 hades.models.io.SevenSegment i90 112500 -26700 @N 1001
-hades.models.Design unnamed 131100 70050 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
+hades.models.Design unnamed 131700 65100 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
 hades.models.rtlib.io.IpinVector B 81300 2400 @N 1001 16 0000000000101011_B 1.0E-9 0
 hades.models.rtlib.io.IpinVector A 81150 150 @N 1001 16 0000000000000110_B 1.0E-9 0
+hades.models.Design Float16\u002c_Adder/Subtracter -25800 24000 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/16bit_Float_sum.hds
 hades.models.io.SevenSegment i89 115050 -26700 @N 1001
 hades.models.io.SevenSegment i88 117600 -26700 @N 1001
 hades.models.io.SevenSegment i87 120150 -26700 @N 1001
 hades.models.gates.And6 i86 19500 114000 @N 1001 1.0E-8
 hades.models.rtlib.io.Expander i85 16500 128550 @N 1001 5 1.0E-8
 hades.models.rtlib.io.MergeBits i84 -11250 80850 @N 1001 10 1.0E-8
-hades.models.Design unnamed13 30450 120150 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
 hades.models.io.Gnd i83 36000 74100 @N 1001
-hades.models.Design unnamed12 51150 133950 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
+hades.models.Design unnamed13 51900 133800 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
 hades.models.rtlib.io.Merge3 i82 -11250 83250 @N 1001 14 2 2 10 00000000000001_B 1.0E-8
-hades.models.Design unnamed11 51150 130200 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
+hades.models.Design unnamed12 51900 130200 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
 hades.models.rtlib.io.Expander i81 138900 -29100 @N 1001 7 1.0E-8
+hades.models.Design unnamed11 30900 120150 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
 hades.models.rtlib.io.Expander i80 133800 -29100 @N 1001 7 1.0E-8
-hades.models.Design unnamed10 131250 106200 @N 1001 /Users/luccalabattaglia/Universidad/ECE_Disen\u0303o_de_Sistemas_con_Microcontroladores/Hades_Lib/4bitBCDto7SegDisp.hds
+hades.models.Design unnamed10 132150 106200 @N 1001 /Users/luccalabattaglia/Work/16BitComputer/lib/4bitBCDto7SegDisp.hds
 hades.models.rtlib.io.Expander i79 121500 -29100 @N 1001 7 1.0E-8
 hades.models.rtlib.io.Expander i78 116550 -29100 @N 1001 7 1.0E-8
 hades.models.rtlib.io.Expander i77 111600 -29100 @N 1001 7 1.0E-8
@@ -259,30 +258,31 @@ hades.signals.SignalStdLogicVector n47 16 2 i59 Y i26 A1 3 2 600 37800 600 36600
 hades.signals.SignalStdLogic1164 n46 4 i3 Y6 i55 A i54 A i56 A 9 2 16800 11400 16800 16200 2 16800 16200 2400 16200 2 -1200 18600 -1200 16200 2 2400 18600 2400 16200 2 1200 33000 1200 32400 2 1200 32400 -3000 32400 2 -3000 32400 -3000 16200 2 -3000 16200 -1200 16200 2 -1200 16200 2400 16200 2 -1200 16200 2400 16200 
 hades.signals.SignalStdLogicVector n45 16 2 i9 Y i59 B 1 2 -7800 33000 -7800 31800 0 
 hades.signals.SignalStdLogic1164 n6_0_0 7 i3 Y1 i18 S i37 A i38 A i39 A i47 A i10 B 28 2 12000 51000 51600 51000 2 51600 51000 51600 39600 2 43800 12600 43800 16200 2 46800 39600 46800 37200 2 46800 37200 43800 37200 2 43800 37200 43800 30600 2 46800 33600 46800 30600 2 46800 30600 44400 30600 2 44400 30600 43800 30600 2 43800 30600 43800 16200 2 49200 16200 45600 16200 2 45600 16200 45600 16800 2 49200 16800 49200 16200 2 45600 16200 43800 16200 2 43800 37200 43800 42000 2 43800 42000 39000 42000 2 38400 42000 31200 42000 2 31200 42000 31200 45000 2 31200 45000 32400 45000 2 39000 42000 38400 42000 2 54000 39600 51600 39600 2 46800 39600 51600 39600 2 12000 51000 9600 51000 2 9600 51000 9600 55200 2 9600 55200 10800 55200 2 43800 12600 21000 12600 2 21000 12600 19800 12600 2 19800 12600 19800 11400 5 43800 37200 43800 30600 51600 39600 45600 16200 43800 16200 
-hades.signals.SignalStdLogic1164 n129 2 Double_Dabble_4_Bit16 O2 Double_Dabble_4_Bit15 i2 1 2 106050 70200 105150 70200 0 
+hades.signals.SignalStdLogic1164 n129 2 Double_Dabble_4_Bit16 O1 Double_Dabble_4_Bit13 i1 1 2 105900 76950 106800 76950 0 
 hades.signals.SignalStdLogic1164 n44 2 i13 Y i9 A 1 2 -7800 28800 -7800 30000 0 
-hades.signals.SignalStdLogic1164 n128 2 Double_Dabble_4_Bit16 O1 Double_Dabble_4_Bit15 i1 1 2 105150 69600 106050 69600 0 
-hades.signals.SignalStdLogic1164 n43 2 Double_Dabble_4_Bit2 O1 Double_Dabble_4_Bit i1 1 2 116700 64800 117600 64800 0 
-hades.signals.SignalStdLogic1164 n127 2 Double_Dabble_4_Bit4 O4 Double_Dabble_4_Bit15 i0 3 2 105150 67800 105600 67800 2 105600 67800 105600 69000 2 105600 69000 106050 69000 0 
+hades.signals.SignalStdLogic1164 n128 2 Double_Dabble_4_Bit14 O1 Double_Dabble_4_Bit11 i1 1 2 105750 69600 106650 69600 0 
+hades.signals.SignalStdLogic1164 n43 2 i33 Y1 Double_Dabble_4_Bit i0 6 2 117450 64200 117000 64200 2 -6000 61950 -6000 62400 2 -6000 62400 -6000 63600 2 -6000 63600 50250 63600 2 117000 64200 117000 63600 2 117000 63600 50250 63600 0 
+hades.signals.SignalStdLogic1164 n127 2 Double_Dabble_4_Bit11 O2 Double_Dabble_4_Bit4 i2 1 2 112050 69600 111450 69600 0 
 hades.signals.SignalStdLogicVector n42 16 2 i58 Y i13 A 3 2 -8400 27000 -8400 22200 2 -8400 22200 -10800 22200 2 -10800 22200 -10800 20400 0 
-hades.signals.SignalStdLogic1164 n126 2 Double_Dabble_4_Bit15 O3 Double_Dabble_4_Bit14 i3 1 2 111900 70200 110850 70200 0 
+hades.signals.SignalStdLogic1164 n126 2 Double_Dabble_4_Bit16 O4 Double_Dabble_4_Bit6 i2 3 2 105900 78750 106200 78750 2 106200 78750 106200 80100 2 117450 80100 106200 80100 0 
 hades.signals.SignalStdLogic1164 n41 2 i11 Y i8 A 1 2 2400 30000 2400 28800 0 
-hades.signals.SignalStdLogic1164 n125 2 Double_Dabble_4_Bit15 O2 Double_Dabble_4_Bit14 i2 1 2 111900 69600 110850 69600 0 
+hades.signals.SignalStdLogic1164 n125 2 Double_Dabble_4_Bit10 O4 Double_Dabble_4_Bit11 i0 3 2 106650 69000 106200 69000 2 106200 69000 106200 67800 2 106200 67800 105600 67800 0 
 hades.signals.SignalStdLogicVector n40 16 2 i8 Y i56 B 1 2 2400 31800 2400 33000 0 
-hades.signals.SignalStdLogic1164 n124 2 Double_Dabble_4_Bit15 O1 Double_Dabble_4_Bit14 i1 1 2 111900 69000 110850 69000 0 
-hades.signals.SignalStdLogic1164 n123 2 Double_Dabble_4_Bit3 O4 Double_Dabble_4_Bit14 i0 3 2 111900 68400 111450 68400 2 111450 68400 111450 67200 2 111450 67200 110850 67200 0 
+hades.signals.SignalStdLogic1164 n124 2 Double_Dabble_4_Bit8 O4 Double_Dabble_4_Bit6 i0 3 2 117000 77550 117150 77550 2 117150 77550 117150 78900 2 117150 78900 117450 78900 0 
+hades.signals.SignalStdLogic1164 n123 2 Double_Dabble_4_Bit9 O4 Double_Dabble_4_Bit4 i0 3 2 112050 68400 111600 68400 2 111600 68400 111600 67200 2 111600 67200 111300 67200 0 
 hades.signals.SignalStdLogicVector n356_0 4 2 i104 Y i101 A0 8 2 9750 112050 9750 112950 2 9750 112950 10200 112950 2 10200 112950 13800 112950 2 13800 112950 13800 109350 2 13800 109350 21150 109350 2 21150 109350 21150 107850 2 21150 107850 25650 107850 2 25650 107850 25650 108600 0 
-hades.signals.SignalStdLogic1164 n122 2 Double_Dabble_4_Bit14 O3 Double_Dabble_4_Bit13 i3 1 2 116700 69600 117600 69600 0 
-hades.signals.SignalStdLogic1164 n121 2 Double_Dabble_4_Bit14 O2 Double_Dabble_4_Bit13 i2 1 2 117600 69000 116700 69000 0 
-hades.signals.SignalStdLogic1164 n120 2 i33 Y14 Double_Dabble_4_Bit12 i1 6 2 49800 72300 44100 72300 2 44100 72300 43650 72300 2 43650 72300 43650 71250 2 43650 71250 -13650 71250 2 -13650 71250 -13800 71250 2 -13800 71250 -13800 61950 0 
+hades.signals.SignalStdLogic1164 n122 2 Double_Dabble_4_Bit3 O1 unnamed2 CC 5 2 122250 71550 122400 71550 2 131550 71850 131100 71850 2 131100 71850 128400 71850 2 128400 71850 128400 71550 2 122250 71550 128400 71550 0 
+hades.signals.SignalStdLogic1164 n121 2 Double_Dabble_4_Bit2 O4 unnamed2 DD 5 2 122250 69600 122400 69600 2 131550 72450 131100 72450 2 131100 72450 127650 72450 2 122400 69600 127650 69600 2 127650 69600 127650 72450 0 
+hades.signals.SignalStdLogic1164 n120 2 i33 Y15 Double_Dabble_4_Bit34 i2 5 2 50100 72900 49800 72900 2 -14400 61950 -14400 71700 2 49800 72900 37950 72900 2 37950 71700 -14400 71700 2 37950 71700 37950 72900 0 
 hades.signals.SignalStdLogicVector n39 16 2 i55 Y i11 A 3 2 -600 20400 -600 24000 2 -600 24000 1800 24000 2 1800 24000 1800 27000 0 
 hades.signals.SignalStdLogicVector n38 16 2 i18 Y i20 A0 3 2 55800 40200 55800 40800 2 55800 40800 46200 40800 2 46200 40800 46200 45600 0 
 hades.signals.SignalStdLogicVector n37 16 2 i19 Y i20 A1 3 2 45000 45600 45000 40800 2 45000 40800 39000 40800 2 39000 40800 39000 40200 0 
 hades.signals.SignalStdLogicVector n36 16 2 i46 Y i19 A1 3 2 38400 38400 38400 37200 2 38400 37200 31200 37200 2 31200 37200 31200 35400 0 
-hades.signals.SignalStdLogic1164 n119 2 Double_Dabble_4_Bit14 O1 Double_Dabble_4_Bit13 i1 1 2 116700 68400 117600 68400 0 
+hades.signals.SignalStdLogic1164 n35 2 Double_Dabble_4_Bit O4 unnamed DD 6 2 122250 66000 122400 66000 2 131700 67500 130950 67500 2 128400 67500 128400 66150 2 128400 66150 128400 66000 2 128400 66000 122250 66000 2 128400 67500 130950 67500 0 
+hades.signals.SignalStdLogic1164 n119 2 Double_Dabble_4_Bit2 O2 unnamed BB 6 2 122250 68400 122400 68400 2 131700 66300 130950 66300 2 129900 68400 122400 68400 2 129900 68400 129900 67350 2 129900 67350 129900 66300 2 129900 66300 130950 66300 0 
 hades.signals.SignalStdLogicVector n34 16 2 i16 Y i46 B 1 2 31800 30000 31800 33600 0 
-hades.signals.SignalStdLogicVector n33 16 2 i45 Y i16 A 3 2 28800 19800 28800 21300 2 28800 21300 31200 21300 2 31200 21300 31200 28200 0 
 hades.signals.SignalStdLogic1164 n118 2 i35 Y0 i31 G 1 2 121200 300 116700 2250 0 
+hades.signals.SignalStdLogicVector n33 16 2 i45 Y i16 A 3 2 28800 19800 28800 21300 2 28800 21300 31200 21300 2 31200 21300 31200 28200 0 
 hades.signals.SignalStdLogic1164 n117 2 i35 Y1 i31 F 1 2 120600 300 116400 2250 0 
 hades.signals.SignalStdLogicVector n32 16 2 i43 Y i19 A0 1 2 39600 35400 39600 38400 0 
 hades.signals.SignalStdLogic1164 n116 2 i35 Y2 i31 E 1 2 120000 300 116100 2250 0 
@@ -292,30 +292,29 @@ hades.signals.SignalStdLogicVector n30 16 2 i56 Y i26 A0 1 2 1800 37800 1800 348
 hades.signals.SignalStdLogic1164 n114 2 i35 Y4 i31 C 1 2 115500 2250 118800 300 0 
 hades.signals.SignalStdLogic1164 n113 2 i35 Y5 i31 B 1 2 118200 300 115200 2250 0 
 hades.signals.SignalStdLogic1164 n112 2 i35 Y6 i31 A 1 2 117600 300 114900 2250 0 
-hades.signals.SignalStdLogic1164 n111 2 Double_Dabble_4_Bit7 O3 Double_Dabble_4_Bit6 i3 1 2 83250 69750 84000 69600 0 
-hades.signals.SignalStdLogic1164 n110 2 Double_Dabble_4_Bit7 O2 Double_Dabble_4_Bit6 i2 1 2 84000 69000 83250 69150 0 
-hades.signals.SignalStdLogicVector n160_0_1 7 2 unnamed3 i17 i64 A 9 2 135900 75000 142650 75000 2 142650 75000 142650 43650 2 142650 43650 142650 12600 2 142650 12600 144450 12600 2 144450 12600 144450 -4200 2 144450 -4200 104100 -4200 2 104100 -4200 103950 -4200 2 103950 -4200 103500 -4200 2 103200 -900 103500 -4200 0 
+hades.signals.SignalStdLogic1164 n111 2 Double_Dabble_4_Bit27 O3 Double_Dabble_4_Bit23 i3 1 2 84150 73200 83700 73050 0 
+hades.signals.SignalStdLogic1164 n110 2 Double_Dabble_4_Bit26 O3 Double_Dabble_4_Bit25 i3 1 2 83700 69600 84300 69600 0 
 hades.signals.SignalStdLogic1164 n377_0 5 i149 VCC i164 A0 i164 A1 i164 A2 i164 A3 14 2 -8250 118650 -8250 119400 2 -8250 119400 -4350 119400 2 -4350 119400 -4350 123150 2 -4350 123150 9750 123150 2 9750 123150 9750 117900 2 9750 117900 7050 117900 2 7050 118350 7050 117900 2 7050 117750 7050 117900 2 7050 117900 6450 117900 2 6450 117900 6450 118350 2 6450 117900 5850 117900 2 5850 117900 5850 118350 2 5850 117900 5250 117900 2 5250 117900 5250 118350 3 7050 117900 6450 117900 5850 117900 
 hades.signals.SignalStdLogicVector n29 16 2 i17 Y i43 B 1 2 40200 33600 40200 30000 0 
 hades.signals.SignalStdLogicVector n28 16 2 i12 SUM i37 B 1 2 48000 33600 48000 30000 0 
 hades.signals.SignalStdLogic1164 n27 2 i60 Y i27 A 3 2 4200 45600 5400 45600 2 5400 45600 5400 46200 2 5400 46200 7200 46200 0 
 hades.signals.SignalStdLogicVector n26 16 2 i44 Y i16 B 1 2 32400 19800 32400 28200 0 
 hades.signals.SignalStdLogicVector n25 16 2 i54 Y i11 B 1 2 3000 20400 3000 27000 0 
-hades.signals.SignalStdLogic1164 n109 2 Double_Dabble_4_Bit7 O1 Double_Dabble_4_Bit6 i1 1 2 83250 68550 84000 68400 0 
+hades.signals.SignalStdLogic1164 n109 2 Double_Dabble_4_Bit26 O2 Double_Dabble_4_Bit25 i2 1 2 84300 69000 83700 69000 0 
 hades.signals.SignalStdLogicVector n24 16 2 i40 Y i17 B 1 2 40800 19200 40800 28200 0 
-hades.signals.SignalStdLogic1164 n108 2 Double_Dabble_4_Bit8 O3 Double_Dabble_4_Bit7 i3 1 2 77700 70350 78450 70350 0 
+hades.signals.SignalStdLogic1164 n108 2 Double_Dabble_4_Bit27 O2 Double_Dabble_4_Bit23 i2 1 2 84150 72600 83700 72450 0 
 hades.signals.SignalStdLogicVector n23 16 2 i5 SUM i34 B 1 2 57000 33600 57000 30000 0 
-hades.signals.SignalStdLogic1164 n107 2 Double_Dabble_4_Bit8 O2 Double_Dabble_4_Bit7 i2 1 2 78450 69750 77700 69750 0 
+hades.signals.SignalStdLogic1164 n107 2 Double_Dabble_4_Bit27 O1 Double_Dabble_4_Bit23 i1 1 2 84150 72000 83700 71850 0 
 hades.signals.SignalStdLogic1164 n22 2 i62 Y6 i32 A 1 2 112800 300 112350 2250 0 
-hades.signals.SignalStdLogic1164 n106 2 Double_Dabble_4_Bit8 O1 Double_Dabble_4_Bit7 i1 1 2 77700 69150 78450 69150 0 
+hades.signals.SignalStdLogic1164 n106 2 Double_Dabble_4_Bit26 O4 Double_Dabble_4_Bit23 i0 3 2 83700 70200 83850 70200 2 83850 70200 83850 71400 2 83850 71400 84150 71400 0 
 hades.signals.SignalStdLogicVector n21 16 2 i22 Y i25 A0 3 2 21600 40200 21600 44400 2 21600 44400 15600 44400 2 15600 44400 15600 45600 0 
-hades.signals.SignalStdLogic1164 n105 2 Double_Dabble_4_Bit9 O3 Double_Dabble_4_Bit8 i3 1 2 72150 70950 72900 70950 0 
+hades.signals.SignalStdLogic1164 n105 2 Double_Dabble_4_Bit30 O3 Double_Dabble_4_Bit28 i3 1 2 72750 74250 73350 74250 0 
 hades.signals.SignalStdLogicVector n20 16 2 i7 Y i53 B 1 2 12600 33600 12600 31800 0 
-hades.signals.SignalStdLogic1164 n104 2 Double_Dabble_4_Bit9 O2 Double_Dabble_4_Bit8 i2 1 2 72900 70350 72150 70350 0 
-hades.signals.SignalStdLogic1164 n103 2 Double_Dabble_4_Bit9 O1 Double_Dabble_4_Bit8 i1 1 2 72150 69750 72900 69750 0 
-hades.signals.SignalStdLogic1164 n102 2 Double_Dabble_4_Bit11 O2 Double_Dabble_4_Bit10 i2 1 2 61800 71550 60450 71550 0 
-hades.signals.SignalStdLogic1164 n101 2 i33 Y11 Double_Dabble_4_Bit10 i0 5 2 61800 70350 60900 70350 2 -12000 61950 -12000 62400 2 60900 69300 -12000 69300 2 -12000 69300 -12000 62400 2 60900 69300 60900 70350 0 
-hades.signals.SignalStdLogic1164 n100 2 Double_Dabble_4_Bit10 O4 Double_Dabble_4_Bit22 i0 3 2 67350 73200 66900 73200 2 66900 73200 66900 72150 2 66900 72150 66600 72150 0 
+hades.signals.SignalStdLogic1164 n104 2 Double_Dabble_4_Bit30 O2 Double_Dabble_4_Bit28 i2 1 2 73350 73650 72750 73650 0 
+hades.signals.SignalStdLogic1164 n103 2 i33 Y9 Double_Dabble_4_Bit29 i0 6 2 73500 69000 72450 69000 2 -10800 61950 -10800 62400 2 -10800 62400 -10800 68100 2 -10800 68100 48000 67950 2 72450 67950 48000 67950 2 72450 67950 72450 69000 0 
+hades.signals.SignalStdLogic1164 n102 2 Double_Dabble_4_Bit33 O2 Double_Dabble_4_Bit32 i2 1 2 61050 71850 62700 71700 0 
+hades.signals.SignalStdLogic1164 n101 2 Double_Dabble_4_Bit33 O1 Double_Dabble_4_Bit32 i1 1 2 61050 71250 62700 71100 0 
+hades.signals.SignalStdLogic1164 n100 2 Double_Dabble_4_Bit32 O4 Double_Dabble_4_Bit30 i0 3 2 67500 72300 67800 72300 2 67800 72300 67800 73050 2 67800 73050 67950 73050 0 
 hades.signals.SignalStdLogicVector n19 16 2 i26 Y i25 A1 3 2 1200 39600 1200 43800 2 1200 43800 14400 43800 2 14400 43800 14400 45600 0 
 hades.signals.SignalStdLogicVector n18 16 2 i53 Y i22 A1 3 2 12000 35400 12000 36600 2 12000 36600 21000 36600 2 21000 36600 21000 38400 0 
 hades.signals.SignalStdLogicVector n17 16 2 i52 Y i6 A 5 2 9600 20400 9600 25200 2 9600 25200 12000 25200 2 12000 25200 12000 27000 2 12000 27000 12000 25200 2 12000 25200 9600 25200 0 
@@ -324,77 +323,88 @@ hades.signals.SignalStdLogic1164 n15 2 i6 Y i7 A 1 2 12600 28800 12600 30000 0
 hades.signals.SignalStdLogicVector n14 16 2 i50 Y i22 A0 1 2 22200 35400 22200 38400 0 
 hades.signals.SignalStdLogicVector n13 16 2 i14 Y i50 B 1 2 22800 30600 22800 33600 0 
 hades.signals.SignalStdLogicVector n12 16 2 i49 Y i14 A 4 2 21600 22200 19200 22200 2 19200 22200 19200 20400 2 21600 22200 22200 22200 2 22200 22200 22200 28800 0 
-hades.signals.SignalStdLogicVector n455 7 2 unnamed9 i17 i79 A 6 2 122100 -29100 122100 -37350 2 136050 102600 153450 102600 2 123900 -37350 153600 -37350 2 123900 -37350 122100 -37350 2 153600 -37350 153450 101850 2 153450 101850 153450 102600 0 
 hades.signals.SignalStdLogic1164 n11 6 i3 Y7 i27 B i26 S i59 A i57 A i58 A 15 2 16200 11400 16200 15600 2 7200 47400 -13800 47400 2 -13800 47400 -13800 39000 2 -600 39000 -13800 39000 2 -13800 39000 -13800 32400 2 -9000 33000 -9000 32400 2 -9000 32400 -13200 32400 2 -13200 32400 -13800 32400 2 -13800 32400 -13800 15600 2 -13800 15600 -13200 15600 2 -7800 15600 -7800 18600 2 -7800 15600 -11400 15600 2 -11400 15600 -11400 18600 2 -11400 15600 -13200 15600 2 -7800 15600 16200 15600 4 -11400 15600 -13800 32400 -13800 39000 -7800 15600 
 hades.signals.SignalStdLogic1164 n10 2 i61 Y i28 S 1 2 27600 56400 19800 56400 0 
+hades.signals.SignalStdLogic1164 n180_1 2 i33 Y3 Double_Dabble_4_Bit9 i0 8 2 106500 65400 106050 65400 2 106050 65400 105900 65400 2 105900 65400 105900 64950 2 105900 64950 105450 64950 2 -7200 61950 -7200 62400 2 -7200 62400 -7200 64950 2 -7200 64950 69750 64950 2 69750 64950 105450 64950 0 
 hades.signals.SignalStdLogicVector n249_0 3 2 Select_Operation Y i3 A 4 2 16200 10200 16200 8550 2 82650 5400 81450 5400 2 16200 8550 82650 8550 2 82650 5400 82650 8550 0 
+hades.signals.SignalStdLogic1164 n217_0 2 Prender_Displays Y i0 A 8 2 99900 -13350 100950 -13350 2 100950 -13350 100950 -12300 2 100950 -12300 88950 -12300 2 88950 11700 88950 12000 2 88950 12000 79200 12000 2 79200 12000 79200 10800 2 80250 10800 79200 10800 2 88950 11700 88950 -12300 0 
 hades.signals.SignalStdLogic1164 n381_0_1 2 i148 GND i164 A4 12 2 9450 118050 9450 118200 2 9450 123300 -4800 123300 2 -4800 123300 -4800 121950 2 -4800 121950 -6750 121950 2 -7350 122850 -7350 121950 2 -7350 121950 -6750 121950 2 -6750 119700 -8250 119700 2 -8250 119700 -8250 120300 2 -6750 119700 -6750 121950 2 9450 123300 9450 118200 2 9450 118050 4650 118050 2 4650 118050 4650 118350 1 -6750 121950 
 hades.signals.SignalStdLogic1164 n399 2 i81 Y3 i96 D 1 2 141300 -27900 135750 -26850 0 
 hades.signals.SignalStdLogic1164 n398 2 i81 Y4 i96 C 1 2 135450 -26850 140700 -27900 0 
 hades.signals.SignalStdLogic1164 n397 2 i81 Y5 i96 B 1 2 140100 -27900 135150 -26850 0 
 hades.signals.SignalStdLogic1164 n396 2 i81 Y6 i96 A 1 2 134850 -26850 139500 -27900 0 
+hades.signals.SignalStdLogic1164 n395 2 i33 Y0 unnamed1 DD 6 2 131100 61800 130350 61800 2 130350 61800 130350 63000 2 -5400 61950 -5400 62400 2 -5400 62400 -5400 63000 2 -5400 63000 129150 63000 2 129150 63000 130350 63000 0 
 hades.signals.SignalStdLogic1164 n394 4 i70 Y10 i152 A i150 A0 i118 A 14 2 16050 114000 15000 114600 2 -300 118200 -300 114600 2 17100 120450 15000 120450 2 15000 120450 15000 114600 2 -11250 78600 -11250 80550 2 -11250 80550 -14400 80550 2 -14400 80550 -14400 82950 2 -14400 82950 -14400 114600 2 5250 114600 5100 114600 2 15000 114600 6900 114600 2 5250 114600 5850 114600 2 6900 114600 5850 114600 2 -14400 114600 -300 114600 2 5100 114600 -300 114600 2 15000 114600 -300 114600 
+hades.signals.SignalStdLogicVector n393 7 2 unnamed i17 i62 A 8 2 136500 65700 144600 65700 2 112800 -900 112800 -3450 2 112800 -3450 145950 -3450 2 145950 -3450 145950 13800 2 145950 13800 144600 13800 2 144600 13800 144600 24000 2 144600 24000 144600 63000 2 144600 63000 144600 65700 0 
 hades.signals.SignalStdLogic1164 n392 2 i126 Y i86 F 1 2 19500 117600 17850 119100 0 
 hades.signals.SignalStdLogic1164 n391 2 i125 Y i86 E 1 2 17850 118050 19500 117000 0 
 hades.signals.SignalStdLogic1164 n390 2 i154 Y i86 D 1 2 19500 116400 17850 117150 0 
 hades.signals.SignalStdLogicVector n266_1 4 2 i132 Y i119 A 9 2 25650 93000 25650 92250 2 12450 96600 12450 97050 2 12450 97050 18600 97050 2 18600 97050 18600 93150 2 18600 93150 20700 93150 2 20700 93150 21600 93150 2 22650 92250 21600 92250 2 21600 92250 21600 93150 2 22650 92250 25650 92250 0 
 hades.signals.SignalStdLogic1164 n266_0 2 i102 GND i106 A 4 2 5550 80850 5550 80550 2 5550 80850 5550 80100 2 5550 80100 750 80100 2 750 80100 750 80850 1 5550 80850 
+hades.signals.SignalStdLogicVector n425 7 2 unnamed12 i17 i81 A 10 2 56700 130800 58500 130800 2 58500 130800 58500 130500 2 139500 -29100 139500 -39600 2 139800 -39600 157500 -39600 2 59550 110250 157500 110400 2 157500 110400 157500 -600 2 157500 -600 157500 -39600 2 139800 -39600 139500 -39600 2 59550 110250 58500 110250 2 58500 110250 58500 130500 0 
+hades.signals.SignalStdLogic1164 n424 2 Double_Dabble_4_Bit O1 unnamed1 CC 5 2 122250 64200 122400 64200 2 128400 64200 122250 64200 2 128400 64200 129600 64200 2 129600 64200 129600 61200 2 131100 61200 129600 61200 0 
+hades.signals.SignalStdLogicVector n423 7 2 unnamed13 i17 i80 A 8 2 56700 134400 59700 134400 2 155400 109350 155250 84150 2 155250 84150 155250 -39150 2 155250 -39150 134400 -39150 2 134400 -29100 134400 -39150 2 155400 109350 63600 109350 2 63600 109350 59700 109350 2 59700 109350 59700 134400 0 
+hades.signals.SignalStdLogic1164 n422 2 i122 Y1 unnamed10 CC 5 2 132150 108000 131250 108000 2 26700 113400 29400 113400 2 131250 108000 29400 108150 2 29400 113250 29400 108150 2 29400 113250 29400 113400 0 
 hades.signals.SignalStdLogic1164 n389 2 i155 Y i86 C 1 2 19500 115800 17850 116250 0 
+hades.signals.SignalStdLogicVector n421 7 2 unnamed6 i17 i76 A 7 2 136200 89100 149850 89100 2 107250 -29100 107250 -34350 2 149550 -34350 149850 -34350 2 149550 -34350 122100 -34350 2 149850 -34350 149850 85650 2 122100 -34350 107250 -34350 2 149850 85650 149850 89100 0 
+hades.signals.SignalStdLogic1164 n388 2 Double_Dabble_4_Bit O2 unnamed1 BB 4 2 122250 64800 122400 64800 2 129000 64800 122250 64800 2 129000 64800 129000 60600 2 131100 60600 129000 60600 0 
 hades.signals.SignalStdLogic1164 n420 2 i173 Y5 i172 B 1 2 124650 -26850 129900 -27900 0 
-hades.signals.SignalStdLogic1164 n387 2 i85 Y2 Double_Dabble_4_Bit36 i0 3 2 35550 132000 18300 132000 2 18300 132000 18300 131700 2 18300 129750 18300 131700 0 
+hades.signals.SignalStdLogic1164 n387 2 i85 Y3 Double_Dabble_4_Bit36 i1 4 2 36150 132600 35550 132600 2 35550 132600 17700 132600 2 17700 132600 17700 132300 2 17700 129750 17700 132300 0 
 hades.signals.SignalStdLogic1164 n386 2 i173 Y6 i172 A 1 2 129300 -27900 124350 -26850 0 
-hades.signals.SignalStdLogic1164 n385 4 i124 GND Double_Dabble_4_Bit36 i3 unnamed12 BB unnamed12 AA 9 2 34950 133800 33750 133800 2 33750 133800 33750 134400 2 35550 133800 34950 133800 2 34950 133800 34950 134850 2 34950 134850 50250 134850 2 50250 134850 50250 135150 2 50250 135150 51150 135150 2 50250 134850 50250 134550 2 50250 134550 51150 134550 2 34950 133800 50250 134850 
-hades.signals.SignalStdLogic1164 n384 2 Double_Dabble_4_Bit36 O3 Double_Dabble_4_Bit35 i3 1 2 40950 132900 40350 133200 0 
-hades.signals.SignalStdLogic1164 n383 2 Double_Dabble_4_Bit36 O2 Double_Dabble_4_Bit35 i2 1 2 40950 132300 40350 132600 0 
-hades.signals.SignalStdLogic1164 n382 2 Double_Dabble_4_Bit35 O1 unnamed11 CC 3 2 45750 131100 47700 131100 2 51150 132000 47700 132000 2 47700 132000 47700 131100 0 
+hades.signals.SignalStdLogic1164 n385 2 Double_Dabble_4_Bit36 O3 Double_Dabble_4_Bit35 i3 1 2 42300 132900 40950 133200 0 
+hades.signals.SignalStdLogic1164 n384 2 Double_Dabble_4_Bit36 O2 Double_Dabble_4_Bit35 i2 1 2 40950 132600 42300 132300 0 
+hades.signals.SignalStdLogic1164 n383 2 Double_Dabble_4_Bit35 O1 unnamed12 CC 4 2 47100 131100 47700 131100 2 51900 132000 51150 132000 2 51150 132000 47700 132000 2 47700 132000 47700 131100 0 
+hades.signals.SignalStdLogic1164 n382 2 i85 Y0 unnamed12 DD 5 2 51900 132600 51150 132600 2 51150 132600 48300 132600 2 48300 132600 48300 129900 2 48300 129900 19500 129900 2 19500 129750 19500 129900 0 
 hades.signals.SignalStdLogicVector n381 5 3 i164 Y i147 B i146 B 4 2 -600 120900 -600 120000 2 -600 120000 4650 120000 2 4650 120300 4650 120000 2 4650 119550 4650 120000 1 4650 120000 
 hades.signals.SignalStdLogicVector n380 5 3 i146 SUM i167 A0 i175 A 6 2 4050 126000 4050 123600 2 4050 123600 3450 123600 2 3450 123000 3450 122700 2 3450 123600 3450 123000 2 3450 123000 900 123000 2 900 123000 900 123300 1 3450 123000 
+hades.signals.SignalStdLogicVector n234_1 16 2 i67 Y Float16,_Adder/Subtracter i3 4 2 -25800 20550 -25800 22500 2 -25800 22500 -27000 22500 2 -27000 22500 -27000 25200 2 -25800 25200 -27000 25200 0 
 hades.signals.SignalStdLogic1164 n419 2 i173 Y0 i172 G 1 2 132900 -27900 126150 -26850 0 
 hades.signals.SignalStdLogic1164 n418 2 i173 Y1 i172 F 1 2 125850 -26850 132300 -27900 0 
 hades.signals.SignalStdLogic1164 n417 2 i173 Y2 i172 E 1 2 125550 -26850 131700 -27900 0 
 hades.signals.SignalStdLogic1164 n416 2 i173 Y3 i172 D 1 2 131100 -27900 125250 -26850 0 
-hades.signals.SignalStdLogicVector n414 7 2 unnamed13 i17 i173 A 9 2 36750 120750 36750 110700 2 36750 110700 142650 110700 2 142650 110700 159000 110700 2 159000 110700 159000 105750 2 159000 105750 159000 4050 2 159000 4050 159000 -40050 2 159000 -40050 129300 -40050 2 129300 -29100 129300 -40050 2 36750 120750 35250 120750 0 
-hades.signals.SignalStdLogic1164 n413 2 i127 Y0 unnamed13 DD 1 2 27300 122550 30450 122550 0 
-hades.signals.SignalStdLogic1164 n412 2 i127 Y1 unnamed13 CC 1 2 30450 121950 27300 121950 0 
-hades.signals.SignalStdLogic1164 n379 2 Double_Dabble_4_Bit36 O1 Double_Dabble_4_Bit35 i1 1 2 40350 132000 40950 131700 0 
-hades.signals.SignalStdLogic1164 n411 2 i127 Y2 unnamed13 BB 1 2 27300 121350 30450 121350 0 
+hades.signals.SignalStdLogic1164 n414 2 i85 Y2 Double_Dabble_4_Bit36 i0 4 2 36150 132000 35550 132000 2 35550 132000 18300 132000 2 18300 132000 18300 131700 2 18300 129750 18300 131700 0 
+hades.signals.SignalStdLogicVector n413 7 2 unnamed11 i17 i173 A 9 2 35700 120750 36750 120750 2 36750 120750 36750 110700 2 36750 110700 142650 110700 2 142650 110700 159000 110700 2 159000 110700 159000 105750 2 159000 105750 159000 4050 2 159000 4050 159000 -40050 2 159000 -40050 129300 -40050 2 129300 -29100 129300 -40050 0 
+hades.signals.SignalStdLogic1164 n412 2 i127 Y0 unnamed11 DD 1 2 30900 122550 27300 122550 0 
+hades.signals.SignalStdLogic1164 n379 2 Double_Dabble_4_Bit36 O4 unnamed13 CC 3 2 40950 133800 48750 133800 2 51900 135600 48750 135600 2 48750 133800 48750 135600 0 
+hades.signals.SignalStdLogic1164 n411 2 i127 Y1 unnamed11 CC 1 2 27300 121950 30900 121950 0 
 hades.signals.SignalStdLogicVector n378 5 3 i150 Y i147 A i146 A 5 2 -1800 120900 -1800 119850 2 2250 120300 2250 119850 2 -2700 119850 -2700 119400 2 2250 119850 -1800 119850 2 -2700 119850 -1800 119850 1 -1800 119850 
 hades.signals.SignalStdLogic1164 n410 10 i117 GND i126 A i118 F i123 A0 i123 A2 i123 A3 i104 A1 i104 A3 i104 A2 i116 A 28 2 16050 119100 13500 118500 2 13500 118350 13500 118500 2 13500 118500 13500 123450 2 13500 123450 17100 123450 2 13500 118350 13500 117600 2 13500 117600 2100 117600 2 17700 110850 17700 110100 2 17700 110100 17100 110100 2 16500 110850 16500 110100 2 15900 110850 15900 110100 2 10950 110850 10950 110100 2 9750 110850 9750 110100 2 10350 110850 10350 110100 2 1350 110250 1350 109950 2 2100 109950 4350 109950 2 1350 109950 2100 109950 2 2100 109950 2100 114300 2 2100 114300 2100 114750 2 4350 109950 4350 110100 2 4350 110700 4350 110100 2 4350 110100 9750 110100 2 10350 110100 9750 110100 2 17100 110100 16500 110100 2 15900 110100 11550 110100 2 15900 110100 16500 110100 2 10350 110100 10950 110100 2 11550 110100 10950 110100 2 2100 114750 2100 117600 8 9750 110100 10950 110100 16500 110100 4350 110100 15900 110100 13500 118500 2100 109950 10350 110100 
-hades.signals.SignalStdLogic1164 n377 2 Double_Dabble_4_Bit35 O2 unnamed11 BB 3 2 51150 131400 49800 131400 2 45750 131700 49800 131700 2 49800 131700 49800 131400 0 
+hades.signals.SignalStdLogic1164 n377 2 Double_Dabble_4_Bit35 O2 unnamed12 BB 4 2 47100 131700 49800 131700 2 51900 131400 51150 131400 2 51150 131400 49800 131400 2 49800 131700 49800 131400 0 
 hades.signals.SignalStdLogic1164 n376 4 i70 Y13 i154 A i150 A3 i118 D 13 2 16050 117150 15450 116400 2 -2100 118200 -2100 116400 2 17100 122250 15450 122250 2 15450 122250 15450 116400 2 -13050 78600 -13050 79650 2 -13050 79650 -15900 79650 2 -15900 79650 -15900 102600 2 -15900 102600 -15900 116400 2 15450 116400 5100 116400 2 3300 116400 4050 116400 2 5100 116400 4050 116400 2 -15900 116400 -2100 116400 2 3300 116400 -2100 116400 2 15450 116400 -2100 116400 
+hades.signals.SignalStdLogic1164 n375 2 Double_Dabble_4_Bit O3 unnamed1 AA 4 2 122250 65400 122400 65400 2 131100 60000 128400 60000 2 128400 60000 128400 65400 2 122250 65400 128400 65400 0 
 hades.signals.SignalStdLogic1164 n374 2 i152 Y i86 A 1 2 19500 114600 17850 114000 0 
-hades.signals.SignalStdLogic1164 n373 2 Double_Dabble_4_Bit36 O4 unnamed12 CC 3 2 40350 133800 48750 133800 2 48750 133800 48750 135750 2 48750 135750 51150 135750 0 
-hades.signals.SignalStdLogic1164 n372 2 i85 Y4 Double_Dabble_4_Bit36 i2 3 2 35550 133200 17100 133200 2 17100 133200 17100 132900 2 17100 129750 17100 132900 0 
-hades.signals.SignalStdLogic1164 n371 2 i85 Y3 Double_Dabble_4_Bit36 i1 3 2 35550 132600 17700 132600 2 17700 132600 17700 132300 2 17700 129750 17700 132300 0 
-hades.signals.SignalStdLogicVector n370 7 2 unnamed10 i17 i75 A 8 2 136050 106800 154650 106800 2 154650 106800 154650 86550 2 154650 86550 154650 41100 2 154650 41100 154650 -8400 2 154650 -8400 154650 -38400 2 154650 -38400 117900 -38400 2 117900 -38400 101850 -38400 2 101850 -29100 101850 -38400 0 
+hades.signals.SignalStdLogic1164 n373 2 i85 Y1 Double_Dabble_4_Bit35 i0 5 2 42300 131100 40950 131100 2 40950 131100 18900 131100 2 18900 129750 18900 130650 2 18900 130650 18900 130950 2 18900 130950 18900 131100 0 
+hades.signals.SignalStdLogic1164 n372 4 i124 GND Double_Dabble_4_Bit36 i3 unnamed13 BB unnamed13 AA 11 2 36150 133800 35550 133800 2 51900 135000 50250 135000 2 50250 135000 50250 134850 2 51900 134400 50250 134400 2 50250 134400 50250 134550 2 34950 133800 33750 133800 2 33750 133800 33750 134400 2 35550 133800 34950 133800 2 34950 133800 34950 134850 2 34950 134850 50250 134850 2 50250 134850 50250 134550 2 34950 133800 50250 134850 
+hades.signals.SignalStdLogic1164 n371 2 i85 Y4 Double_Dabble_4_Bit36 i2 4 2 36150 133200 35550 133200 2 35550 133200 17100 133200 2 17100 133200 17100 132900 2 17100 129750 17100 132900 0 
+hades.signals.SignalStdLogicVector n370 7 2 unnamed9 i17 i79 A 6 2 136800 102600 153450 102600 2 122100 -29100 122100 -37350 2 123900 -37350 153600 -37350 2 123900 -37350 122100 -37350 2 153600 -37350 153450 101850 2 153450 101850 153450 102600 0 
 hades.signals.SignalStdLogic1164 n409 2 i70 Y15 i151 G 16 2 -14250 78600 -14250 78900 2 -16650 124350 -16650 119250 2 -14250 78900 -16650 78900 2 -16650 78900 -16650 91650 2 -16650 91650 -16650 91950 2 -16650 91950 -16650 119250 2 -16650 124350 -16650 127650 2 -16650 127650 -16650 137700 2 -16650 137700 62550 137700 2 62550 137700 62550 111750 2 62550 111750 160650 111750 2 160650 111750 160800 -34500 2 160800 -34500 160800 -40800 2 160800 -40800 100950 -40800 2 100950 -40800 100950 -27750 2 100950 -27750 106800 -26700 0 
 hades.signals.SignalStdLogic1164 n408 3 i147 Y i167 S i100 G 13 2 -1200 122700 -1200 127200 2 1650 127200 -1200 127200 2 -1200 127200 -1200 132300 2 -1200 132300 -1200 138300 2 -1200 138300 63000 138300 2 63000 138300 63000 112200 2 63000 112200 161400 112200 2 161400 112200 161550 24450 2 161550 24450 161550 -41250 2 161550 -41250 128700 -41250 2 128700 -41250 128700 -29850 2 128700 -29850 128400 -29850 2 128400 -29850 131400 -26850 1 -1200 127200 
 hades.signals.SignalStdLogic1164 n407 16 i99 P i92 C i92 B i98 A i98 B i98 C i98 D i98 E i98 F i98 G i151 F i151 E i151 D i151 C i151 B i151 A 0 1 130350 -26700 
 hades.signals.SignalStdLogic1164 n406 16 i99 P i92 C i92 B i98 A i98 B i98 C i98 D i98 E i98 F i98 G i151 F i151 E i151 D i151 C i151 B i151 A 0 1 130350 -26700 
-hades.signals.SignalStdLogic1164 n405 2 i127 Y3 unnamed13 AA 1 2 30450 120750 27300 120750 0 
+hades.signals.SignalStdLogic1164 n405 2 i127 Y2 unnamed11 BB 1 2 30900 121350 27300 121350 0 
 hades.signals.SignalStdLogicVector n404 5 2 i175 Y i167 A1 3 2 2850 126000 2850 125550 2 2850 125550 900 125550 2 900 125550 900 125100 0 
 hades.signals.SignalStdLogic1164 n403 2 i173 Y4 i172 C 1 2 124950 -26850 130500 -27900 0 
 hades.signals.SignalStdLogic1164 n402 2 i81 Y0 i96 G 1 2 143100 -27900 136650 -26850 0 
-hades.signals.SignalStdLogic1164 n369 2 i85 Y1 Double_Dabble_4_Bit35 i0 4 2 40950 131100 18900 131100 2 18900 129750 18900 130650 2 18900 130650 18900 130950 2 18900 130950 18900 131100 0 
+hades.signals.SignalStdLogic1164 n369 2 Double_Dabble_4_Bit36 O1 Double_Dabble_4_Bit35 i1 1 2 42300 131700 40950 132000 0 
 hades.signals.SignalStdLogic1164 n401 2 i81 Y1 i96 F 1 2 136350 -26850 142500 -27900 0 
 hades.signals.SignalStdLogicVector n368 4 2 i103 Y i127 A 3 2 24750 119400 24750 120000 2 24750 120000 26700 120000 2 26700 120000 26700 120150 0 
 hades.signals.SignalStdLogic1164 n400 2 i81 Y2 i96 E 1 2 136050 -26850 141900 -27900 0 
-hades.signals.SignalStdLogic1164 n367 2 i85 Y0 unnamed11 DD 4 2 51150 132600 48300 132600 2 48300 132600 48300 129900 2 48300 129900 19500 129900 2 19500 129750 19500 129900 0 
+hades.signals.SignalStdLogic1164 n367 2 i127 Y3 unnamed11 AA 1 2 30900 120750 27300 120750 0 
 hades.signals.SignalStdLogic1164 n366 4 i70 Y14 i150 A4 i118 E i125 A 13 2 -2700 118200 -2700 117150 2 17100 122850 12000 122850 2 12000 122850 12000 117150 2 -13650 78600 -13650 79200 2 -13650 79200 -16200 79200 2 -16200 79200 -16200 103050 2 -16200 103050 -16200 117150 2 16050 118050 12000 117150 2 12000 117150 4500 117150 2 2700 117150 3450 117150 2 4500 117150 3450 117150 2 -16200 117150 -2700 117150 2 2700 117150 -2700 117150 2 12000 117150 -2700 117150 
-hades.signals.SignalStdLogic1164 n365 2 Double_Dabble_4_Bit35 O3 unnamed11 AA 3 2 51150 130800 49350 130800 2 45750 132300 49350 132300 2 49350 132300 49350 130800 0 
+hades.signals.SignalStdLogic1164 n365 2 Double_Dabble_4_Bit35 O3 unnamed12 AA 4 2 47100 132300 49350 132300 2 51900 130800 51150 130800 2 51150 130800 49350 130800 2 49350 132300 49350 130800 0 
 hades.signals.SignalStdLogic1164 n364 2 i153 Y i86 B 1 2 19500 115200 17850 115200 0 
-hades.signals.SignalStdLogic1164 n363 2 Double_Dabble_4_Bit35 O4 unnamed12 DD 3 2 45750 132900 48150 132900 2 48150 132900 48150 136350 2 48150 136350 51150 136350 0 
+hades.signals.SignalStdLogic1164 n363 2 Double_Dabble_4_Bit35 O4 unnamed13 DD 3 2 47100 132900 48150 132900 2 51900 136200 48150 136200 2 48150 132900 48150 136200 0 
 hades.signals.SignalStdLogic1164 n362 4 i70 Y11 i150 A1 i118 B i153 A 13 2 -900 118200 -900 115200 2 -11850 78600 -11850 80250 2 -11850 80250 -14700 80250 2 -14700 80250 -14850 80250 2 -14850 80250 -14850 115200 2 15150 115200 15150 121050 2 15150 121050 17100 121050 2 15150 115200 6300 115200 2 4500 115200 5250 115200 2 6300 115200 5250 115200 2 -14850 115200 -900 115200 2 4500 115200 -900 115200 2 15150 115200 16050 115200 2 15150 115200 -900 115200 
 hades.signals.SignalStdLogic1164 n361 4 i70 Y12 i155 A i150 A2 i118 C 13 2 16050 116250 15300 115800 2 -1500 118200 -1500 115800 2 17100 121650 15300 121650 2 15300 121650 15300 115800 2 -12450 78600 -12450 79950 2 -12450 79950 -15150 79950 2 -15150 79950 -15300 79950 2 -15300 79950 -15300 115800 2 15300 115800 5700 115800 2 3900 115800 4650 115800 2 5700 115800 4650 115800 2 -15300 115800 -1500 115800 2 3900 115800 -1500 115800 2 -1500 115800 15300 115800 
-hades.signals.SignalStdLogic1164 n360 2 i122 Y0 unnamed10 DD 4 2 26700 114000 29700 114000 2 131250 108600 29700 108600 2 29700 108600 29700 113850 2 29700 113850 29700 114000 0 
+hades.signals.SignalStdLogicVector n360 7 2 unnamed10 i17 i75 A 8 2 136950 106800 154650 106800 2 154650 106800 154650 86550 2 154650 86550 154650 41100 2 154650 41100 154650 -8400 2 154650 -8400 154650 -38400 2 154650 -38400 117900 -38400 2 117900 -38400 101850 -38400 2 101850 -29100 101850 -38400 0 
 hades.signals.SignalStdLogicVector n316_1 14 2 i111 Y i128 A 6 2 16950 87150 16950 87750 2 16950 87750 16950 92100 2 16950 92100 16050 92100 2 -3900 92850 -3900 92100 2 8100 92100 -3900 92100 2 8100 92100 16050 92100 0 
 hades.signals.SignalStdLogic1164 n359 2 i86 Y i101 S 5 2 23100 115800 23550 115800 2 23550 115800 23550 110550 2 23550 110550 22800 110550 2 22800 110550 22800 109800 2 22800 109800 23250 109800 0 
-hades.signals.SignalStdLogic1164 n358 2 i122 Y1 unnamed10 CC 4 2 26700 113400 29400 113400 2 131250 108000 29400 108150 2 29400 113250 29400 108150 2 29400 113250 29400 113400 0 
+hades.signals.SignalStdLogic1164 n358 2 i122 Y0 unnamed10 DD 5 2 132150 108600 131250 108600 2 26700 114000 29700 114000 2 131250 108600 29700 108600 2 29700 108600 29700 113850 2 29700 113850 29700 114000 0 
 hades.signals.SignalStdLogic1164 n357 2 i118 Y i103 S 3 2 20700 121650 21450 121650 2 21450 121650 21450 118800 2 21450 118800 22950 118800 0 
 hades.signals.SignalStdLogic1164 n356 42 i0 Y i99 P i151 K i151 P i172 K i172 P i95 P i99 K i87 P i88 P i89 P i90 P i74 A i74 B i74 C i74 D i74 E i74 F i74 P i74 K i32 K i32 P i31 K i31 P i73 K i71 K i71 P i72 P i73 P i72 K i87 K i88 K i89 K i90 K i92 K i92 P i98 K i95 K i96 P i96 K i100 K i100 P 123 2 109800 -26700 108900 -21150 2 107100 -22500 109350 -21150 2 107100 -26700 109350 -21150 2 126450 -22650 127350 -21150 2 126450 -26850 127800 -21150 2 136950 -22650 135900 -21150 2 134250 -26850 136950 -26850 2 136950 -26850 135900 -21150 2 135900 -21150 135600 -21150 2 109800 -22500 108600 -21150 2 122550 -26700 129000 -26850 2 129000 -26850 124050 -21150 2 120000 -26700 120300 -27000 2 120300 -27000 120300 -21150 2 117450 -26700 116850 -27000 2 116850 -27000 116850 -21150 2 114900 -26700 112800 -27000 2 112800 -27000 112800 -21150 2 101850 2250 96900 2100 2 102150 2250 97200 2100 2 102450 2250 97500 2100 2 102750 2250 97800 2100 2 103050 2250 98100 2100 2 98400 2100 103350 2250 2 98400 2100 98100 2100 2 98100 2100 97800 2100 2 97800 2100 97500 2100 2 97500 2100 97200 2100 2 96600 2100 96900 2100 2 97200 2100 96900 2100 2 96600 2100 96600 7800 2 103950 2250 99300 2250 2 99300 2250 99300 7800 2 103950 6450 99000 7800 2 114450 6450 113850 7800 2 114450 2250 111900 2250 2 111900 2250 114150 7800 2 117000 6450 117750 7800 2 117000 2250 118050 2250 2 118050 2250 118050 7800 2 102150 7800 102000 7800 2 102000 7800 106500 6450 2 102150 7800 102450 7800 2 111900 6450 109950 7800 2 111900 2250 110250 2250 2 110250 2250 110250 7800 2 109200 2250 106350 2250 2 106350 2250 106350 7800 2 106500 2250 102450 2250 2 102450 2250 102450 7800 2 109200 6450 106050 7800 2 110700 7800 112500 7800 2 126300 7800 130350 7800 2 118500 -3750 144600 -3750 2 144600 -3750 144600 6900 2 144600 6900 144600 7800 2 130350 7800 131700 7800 2 144600 7800 141750 7800 2 131700 7800 140400 7800 2 141750 7800 140400 7800 2 122250 7800 120600 7800 2 85350 -3750 92700 -3750 2 85350 -3750 85350 10800 2 85350 10800 82050 10800 2 103350 7800 106050 7800 2 103350 7800 102900 7800 2 102900 7800 102450 7800 2 106800 7800 106350 7800 2 92700 -3750 118500 -3750 2 110700 7800 110250 7800 2 110250 7800 110100 7800 2 106050 7800 106200 7800 2 106350 7800 106200 7800 2 106800 7800 106950 7800 2 110100 7800 109950 7800 2 106950 7800 109950 7800 2 112500 7800 113850 7800 2 113850 7800 114150 7800 2 120600 7800 118050 7800 2 114150 7800 117750 7800 2 118050 7800 117750 7800 2 96750 7800 97050 7800 2 97050 7800 99000 7800 2 102000 7800 99300 7800 2 99000 7800 99300 7800 2 96750 7800 96600 7800 2 122250 7800 126000 7800 2 126000 7800 126300 7800 2 126300 7800 126300 -21150 2 123600 -21150 122550 -22500 2 119850 -21150 120000 -22500 2 116400 -21150 117450 -22500 2 116400 -21150 112950 -21150 2 111750 -21150 114900 -22500 2 112950 -21150 112800 -21150 2 111750 -21150 112800 -21150 2 119850 -21150 116850 -21150 2 116400 -21150 116850 -21150 2 123600 -21150 120300 -21150 2 119850 -21150 120300 -21150 2 123600 -21150 124050 -21150 2 128550 -22350 129000 -22650 2 128550 -21150 128550 -22350 2 128550 -22350 129150 -22350 2 129150 -22350 129000 -26850 2 129000 -26850 128550 -27000 2 128550 -27000 129000 -26850 2 111750 -21150 111150 -21150 2 111150 -21150 112350 -22500 2 128550 -21150 135450 -21150 2 135450 -21150 135600 -21150 2 135600 -21150 134250 -22650 2 124050 -21150 124650 -21150 2 126300 -21150 124950 -21150 2 124650 -21150 124950 -21150 2 128550 -21150 127800 -21150 2 126300 -21150 127350 -21150 2 127800 -21150 127350 -21150 2 111150 -21150 109350 -21150 2 129150 -22350 131700 -22650 2 129150 -22350 131700 -26850 2 108600 -21150 108900 -21150 2 109350 -21150 108900 -21150 39 106350 7800 98100 2100 111750 -21150 102000 7800 129000 -26850 108900 -21150 113850 7800 128550 -21150 99300 7800 127800 -21150 116400 -21150 117750 7800 135900 -21150 127350 -21150 106050 7800 118050 7800 124050 -21150 110250 7800 135600 -21150 126300 7800 119850 -21150 109950 7800 114150 7800 97500 2100 128550 -22350 120300 -21150 96900 2100 112800 -21150 116850 -21150 97800 2100 99000 7800 123600 -21150 126300 -21150 129150 -22350 136950 -26850 102450 7800 111150 -21150 109350 -21150 97200 2100 
 hades.signals.SignalStdLogic1164 n355 3 i105 VCC i123 A1 i104 A0 7 2 17100 110850 17100 110400 2 11550 109800 10950 109800 2 8100 109650 8100 109800 2 8100 109800 10950 109800 2 11550 110850 11550 110400 2 11550 109800 11550 110400 2 11550 110400 17100 110400 1 11550 110400 
 hades.signals.SignalStdLogicVector n354 16 3 i41 Y B_(Como_INT) A i66 B 8 2 96150 -19650 92100 -19650 2 68250 -6900 68250 -4950 2 -21450 18750 -21450 3750 2 -21450 3750 -21450 -4950 2 -21450 -4950 68250 -4950 2 68250 -7800 68250 -6900 2 68250 -6900 92100 -6900 2 92100 -6900 92100 -19650 1 68250 -6900 
-hades.signals.SignalStdLogicVector n353 7 2 unnamed7 i17 i77 A 5 2 112200 -29100 112200 -35550 2 112200 -35550 117150 -35550 2 136050 94050 150750 94050 2 150750 -35550 150750 94050 2 150750 -35550 117150 -35550 0 
+hades.signals.SignalStdLogic1164 n353 2 i119 Y3 unnamed7 AA 2 2 131850 94050 131250 94050 2 26250 93600 131250 94050 0 
 hades.signals.SignalStdLogic1164 n352 2 i76 Y0 i90 G 1 2 114600 -26700 110850 -27900 0 
 hades.signals.SignalStdLogic1164 n351 2 i76 Y1 i90 F 1 2 110250 -27900 114300 -26700 0 
 hades.signals.SignalStdLogic1164 n350 2 i76 Y2 i90 E 1 2 109650 -27900 114000 -26700 0 
@@ -411,7 +421,6 @@ hades.signals.SignalStdLogic1164 n343 2 i77 Y3 i89 D 1 2 114000 -27900 116250 -2
 hades.signals.SignalStdLogic1164 n342 2 i77 Y4 i89 C 1 2 115950 -26700 113400 -27900 0 
 hades.signals.SignalStdLogic1164 n341 2 i77 Y5 i89 B 1 2 112800 -27900 115650 -26700 0 
 hades.signals.SignalStdLogicVector n244_0 16 9 A Y i55 B i58 B i52 B i49 B i23 B i39 B i42 B i45 B 31 2 81150 150 82350 150 2 82350 150 82350 -2100 2 0 18600 0 3000 2 -10200 18600 -10200 3000 2 10200 18600 10200 3000 2 19800 18600 19800 15600 2 19800 15600 23400 15600 2 23400 15600 23400 3000 2 55800 16800 55800 7800 2 55800 16800 55800 3000 2 55800 3000 46800 3000 2 46800 16800 46800 7800 2 46800 16800 46800 3000 2 46800 3000 37800 3000 2 37800 17400 37800 7800 2 37800 17400 37800 3000 2 37800 17400 37800 3000 2 37800 3000 29400 3000 2 37800 3000 29400 3000 2 29400 18000 29400 3000 2 29400 3000 25200 3000 2 19800 3000 22800 3000 2 22800 3000 23400 3000 2 25200 3000 23400 3000 2 19800 3000 10200 3000 2 8400 3000 10200 3000 2 8400 3000 0 3000 2 0 3000 -10200 3000 2 55800 3000 65850 3000 2 65850 3000 65850 -2100 2 65850 -2100 82350 -2100 10 10200 3000 55800 3000 55800 16800 29400 3000 46800 3000 23400 3000 46800 16800 37800 3000 0 3000 37800 17400 
-hades.signals.SignalStdLogicVector n415_0_0_1 7 2 unnamed11 i17 i81 A 9 2 139500 -29100 139500 -39600 2 139800 -39600 157500 -39600 2 59550 110250 157500 110400 2 157500 110400 157500 -600 2 157500 -600 157500 -39600 2 139800 -39600 139500 -39600 2 59550 110250 58500 110250 2 55950 130800 58500 130800 2 58500 130800 58500 110250 0 
 hades.signals.SignalStdLogic1164 n340 2 i77 Y6 i89 A 1 2 115350 -26700 112200 -27900 0 
 hades.signals.SignalStdLogic1164 n17_0_1_1 5 i3 Y2 i43 A i42 A i40 A i15 A 23 2 19800 13200 34800 13200 2 34800 13200 34800 16800 2 39000 33600 39000 30600 2 39000 30600 37200 30600 2 37200 30600 37200 22800 2 37200 22800 35400 22800 2 35400 22800 34800 22800 2 34800 22800 34800 16800 2 36600 17400 36600 16800 2 40200 16800 40200 17400 2 40200 16800 36600 16800 2 36600 16800 34800 16800 2 37200 30600 37200 36000 2 37200 36000 27600 36000 2 27600 36000 27600 49800 2 27600 49800 27600 50400 2 27600 50400 10800 50400 2 10800 50400 9000 50400 2 9000 50400 7800 50400 2 7800 50400 7800 56400 2 7800 56400 9000 56400 2 19800 13200 19200 13200 2 19200 13200 19200 11400 3 37200 30600 36600 16800 34800 16800 
 hades.signals.SignalStdLogic1164 n339 2 i78 Y0 i88 G 1 2 120750 -27900 119700 -26700 0 
@@ -425,19 +434,17 @@ hades.signals.SignalStdLogic1164 n333 2 i78 Y6 i88 A 1 2 117900 -26700 117150 -2
 hades.signals.SignalStdLogic1164 n332 2 i79 Y0 i87 G 1 2 122250 -26700 125700 -27900 0 
 hades.signals.SignalStdLogic1164 n299 2 i79 Y6 i87 A 1 2 122100 -27900 120450 -26700 0 
 hades.signals.SignalStdLogic1164 n331 2 i79 Y1 i87 F 1 2 121950 -26700 125100 -27900 0 
-hades.signals.SignalStdLogicVector n247_0_1 7 2 unnamed4 i17 i65 A 9 2 141750 63150 141750 79800 2 141750 79800 135900 79800 2 141750 63150 141750 45600 2 98400 -900 98400 -2700 2 98400 -2700 98400 -4650 2 98400 -4650 145050 -4650 2 145050 -4650 145050 12000 2 145050 12000 141750 12000 2 141750 12000 141750 45600 0 
-hades.signals.SignalStdLogic1164 n298 2 i119 Y0 unnamed7 DD 1 2 131250 95850 26250 95400 0 
+hades.signals.SignalStdLogic1164 n298 2 i120 Y3 unnamed8 AA 2 2 132000 98400 131250 98400 2 131250 98400 26100 98100 0 
 hades.signals.SignalStdLogic1164 n330 2 i79 Y2 i87 E 1 2 121650 -26700 124500 -27900 0 
-hades.signals.SignalStdLogic1164 n297 2 i119 Y1 unnamed7 CC 1 2 26250 94800 131250 95250 0 
-hades.signals.SignalStdLogic1164 n296 2 i119 Y2 unnamed7 BB 1 2 131250 94650 26250 94200 0 
-hades.signals.SignalStdLogic1164 n295 2 i119 Y3 unnamed7 AA 1 2 26250 93600 131250 94050 0 
-hades.signals.SignalStdLogicVector n294 7 2 unnamed6 i17 i76 A 7 2 135750 89100 149850 89100 2 107250 -29100 107250 -34350 2 149550 -34350 149850 -34350 2 149550 -34350 122100 -34350 2 149850 -34350 149850 85650 2 122100 -34350 107250 -34350 2 149850 85650 149850 89100 0 
+hades.signals.SignalStdLogic1164 n297 2 i119 Y0 unnamed7 DD 2 2 131850 95850 131250 95850 2 131250 95850 26250 95400 0 
+hades.signals.SignalStdLogic1164 n296 2 i119 Y1 unnamed7 CC 2 2 131850 95250 131250 95250 2 26250 94800 131250 95250 0 
+hades.signals.SignalStdLogic1164 n295 2 i119 Y2 unnamed7 BB 2 2 131850 94650 131250 94650 2 131250 94650 26250 94200 0 
+hades.signals.SignalStdLogic1164 n294 2 i115 Y3 unnamed6 AA 2 2 131400 89100 130950 89100 2 130950 89100 26400 88800 0 
 hades.signals.SignalStdLogicVector n9 16 2 i48 Y i14 B 1 2 23400 28800 23400 20400 0 
 hades.signals.SignalStdLogic1164 n293 2 i76 Y5 i90 B 1 2 107850 -27900 113100 -26700 0 
 hades.signals.SignalStdLogicVector n8 16 2 i42 Y i17 A 3 2 37200 19200 37200 22200 2 37200 22200 39600 22200 2 39600 22200 39600 28200 0 
 hades.signals.SignalStdLogicVector n292 14 3 i109 SUM i114 A i111 A 8 2 13350 88200 13350 87750 2 16350 85350 16350 84600 2 16350 84600 14400 84600 2 11400 87450 11400 87750 2 14400 87750 14400 84600 2 11400 87750 13050 87750 2 13050 87750 13350 87750 2 14400 87750 13350 87750 1 13350 87750 
 hades.signals.SignalStdLogicVector n7 16 2 i37 Y i18 A1 3 2 55200 38400 55200 36600 2 55200 36600 47400 36600 2 47400 36600 47400 35400 0 
-hades.signals.SignalStdLogicVector n291 16 3 unnamed5 i15 i70 A Para_corroborar_operaciones_flotantes A 10 2 -14250 77400 -14250 72750 2 -19800 24750 -19650 24750 2 -14250 72750 -19650 72750 2 -19650 72750 -19650 68250 2 -19650 24750 -19650 68250 2 -21000 24750 -19800 24750 2 -19800 24750 -19800 -3600 2 -19800 -3600 94500 -3600 2 96150 -17100 94500 -17100 2 94500 -17100 94500 -3600 1 -19800 24750 
 hades.signals.SignalStdLogic1164 n6 2 i10 Y i61 A 3 2 14400 54600 15600 54600 2 15600 54600 15600 55800 2 15600 55800 16200 55800 0 
 hades.signals.SignalStdLogicVector n290 14 3 i134 Y i137 A i135 A 10 2 9150 98550 9150 97800 2 9150 97800 -300 97800 2 -300 97800 -600 97800 2 -600 97800 -600 98250 2 750 98700 750 98250 2 -1500 98250 -1500 100950 2 -1500 100950 -3900 100950 2 -3900 100950 -3900 100500 2 750 98250 -600 98250 2 -1500 98250 -600 98250 1 -600 98250 
 hades.signals.SignalStdLogicVector n5 16 2 i24 Y i5 B 4 2 58800 18600 58800 25200 2 58800 25200 58800 25800 2 58800 25800 58200 25800 2 58200 25800 58200 27600 0 
@@ -445,7 +452,7 @@ hades.signals.SignalStdLogicVector n4 16 2 i34 Y i18 A0 1 2 56400 35400 56400 38
 hades.signals.SignalStdLogicVector n3 16 2 i23 Y i5 A 3 2 55200 18600 55200 25800 2 55200 25800 55800 25800 2 55800 25800 55800 27600 0 
 hades.signals.SignalStdLogicVector n2 16 2 i39 Y i12 A 3 2 46800 27600 46800 19800 2 46800 19800 46200 19800 2 46200 19800 46200 18600 0 
 hades.signals.SignalStdLogicVector n1 16 2 i38 Y i12 B 3 2 49800 18600 49800 26400 2 49800 26400 49200 26400 2 49200 26400 49200 27600 0 
-hades.signals.SignalStdLogic1164 n0 2 Double_Dabble_4_Bit13 O3 unnamed2 AA 4 2 122400 69000 129600 69000 2 129600 69000 129600 66750 2 129600 66750 129600 65700 2 129600 65700 130950 65700 0 
+hades.signals.SignalStdLogic1164 n0 2 Double_Dabble_4_Bit2 O3 unnamed AA 6 2 122250 69000 122400 69000 2 131700 65700 130950 65700 2 122400 69000 129600 69000 2 129600 69000 129600 66750 2 129600 66750 129600 65700 2 129600 65700 130950 65700 0 
 hades.signals.SignalStdLogic1164 n15_1_0 6 i3 Y0 i34 A i24 A i23 A i47 B i10 A 24 2 21000 12000 52800 12000 2 52800 12000 52800 15600 2 55800 33600 55800 30600 2 55800 30600 53400 30600 2 53400 30600 52800 30600 2 52800 30000 52800 15600 2 58200 16800 58200 15600 2 58200 15600 54600 15600 2 54600 15600 54600 16800 2 54600 15600 52800 15600 2 52800 30600 52800 30000 2 52800 30600 52800 41400 2 52800 41400 37800 41400 2 37800 41400 30600 41400 2 30600 41400 30600 46200 2 30600 46200 32400 46200 2 52800 41400 52800 51600 2 52800 51600 12600 51600 2 12000 51600 10200 51600 2 10200 51600 10200 54000 2 10200 54000 10800 54000 2 12600 51600 12000 51600 2 21000 12000 20400 12000 2 20400 12000 20400 11400 4 54600 15600 52800 30600 52800 41400 52800 15600 
 hades.signals.SignalStdLogic1164 n329 2 i75 Y0 i99 G 1 2 109500 -26700 105450 -27900 0 
 hades.signals.SignalStdLogic1164 n328 2 i75 Y1 i99 F 1 2 104850 -27900 109200 -26700 0 
@@ -454,36 +461,32 @@ hades.signals.SignalStdLogic1164 n326 2 i75 Y3 i99 D 1 2 108600 -26700 103650 -2
 hades.signals.SignalStdLogic1164 n325 2 i75 Y4 i99 C 1 2 108300 -26700 103050 -27900 0 
 hades.signals.SignalStdLogic1164 n324 2 i75 Y5 i99 B 1 2 102450 -27900 108000 -26700 0 
 hades.signals.SignalStdLogic1164 n323 2 i79 Y3 i87 D 1 2 121350 -26700 123900 -27900 0 
-hades.signals.SignalStdLogic1164 n322 2 i122 Y3 unnamed10 AA 4 2 26700 112200 28500 112200 2 131250 106800 28500 106800 2 28500 112050 28500 106800 2 28500 112050 28500 112200 0 
-hades.signals.SignalStdLogic1164 n289 2 i115 Y3 unnamed6 AA 1 2 130950 89100 26400 88800 0 
+hades.signals.SignalStdLogic1164 n322 2 i122 Y2 unnamed10 BB 4 2 132150 107400 131250 107400 2 26700 112800 29100 112800 2 131250 107400 29100 107400 2 29100 107400 29100 112800 0 
+hades.signals.SignalStdLogic1164 n289 2 i115 Y2 unnamed6 BB 2 2 131400 89700 130950 89700 2 26400 89400 130950 89700 0 
 hades.signals.SignalStdLogic1164 n321 7 i93 VCC i92 A i92 D i92 E i92 F i92 G i98 P 17 2 128100 -30450 128100 -27300 2 126450 -27300 126900 -26850 2 127350 -27300 127800 -26850 2 127350 -27300 127650 -27300 2 127650 -27300 128100 -26850 2 127650 -27300 127950 -27300 2 127950 -27300 128400 -26850 2 128250 -27300 128700 -26850 2 127950 -27300 128100 -27300 2 128250 -27300 128100 -27300 2 128100 -31500 128100 -30450 2 128100 -30450 106200 -30300 2 106200 -30300 106200 -27750 2 106200 -27750 112350 -26700 2 126450 -27300 126600 -27300 2 127350 -27300 126750 -27300 2 126600 -27300 126750 -27300 5 127350 -27300 127950 -27300 128100 -30450 128100 -27300 127650 -27300 
 hades.signals.SignalStdLogicVector n288 14 3 i143 SUM i145 A i144 A 8 2 12150 108000 12150 107550 2 10350 106950 10350 107550 2 15150 104700 15150 104400 2 15150 104400 13200 104400 2 13200 104400 13200 107250 2 13200 107250 13200 107550 2 13200 107550 12150 107550 2 10350 107550 12150 107550 1 12150 107550 
 hades.signals.SignalStdLogic1164 n320 2 i80 Y0 i95 G 1 2 138000 -27900 133950 -26850 0 
 hades.signals.SignalStdLogicVector n287 14 2 i130 Y i131 B 5 2 11850 92850 11850 91050 2 5250 94800 5250 95250 2 5250 95250 7800 95250 2 7800 95250 7800 91050 2 7800 91050 11850 91050 0 
 hades.signals.SignalStdLogicVector n286 14 3 i128 Y i131 A i129 A 9 2 9450 92850 9450 91500 2 9450 91500 -600 91500 2 -600 91500 -600 92400 2 -3900 94650 -3900 95250 2 -3900 95250 -1650 95250 2 -1650 95250 -1650 92400 2 750 92400 750 92850 2 -1650 92400 -600 92400 2 750 92400 -600 92400 1 -600 92400 
 hades.signals.SignalStdLogicVector n285 14 2 i129 Y i130 A 5 2 750 94650 750 95100 2 750 95100 2850 95100 2 2850 95100 2850 92400 2 2850 92400 5250 92400 2 5250 92400 5250 93000 0 
-hades.signals.SignalStdLogic1164 n284 2 i115 Y2 unnamed6 BB 1 2 26400 89400 130950 89700 0 
+hades.signals.SignalStdLogic1164 n284 2 i115 Y1 unnamed6 CC 2 2 131400 90300 130950 90300 2 130950 90300 26400 90000 0 
 hades.signals.SignalStdLogicVector n283 14 2 i136 Y i137 B 6 2 11550 98550 11550 97050 2 11550 97050 7500 97050 2 7500 97050 7500 98250 2 5100 100500 5100 100950 2 5100 100950 7500 100950 2 7500 100950 7500 98250 0 
-hades.signals.SignalStdLogic1164 n55_1 2 Double_Dabble_4_Bit O2 unnamed1 BB 3 2 129000 64800 122400 64800 2 129000 64800 129000 60600 2 130950 60600 129000 60600 0 
 hades.signals.SignalStdLogicVector n282 14 3 i131 SUM i132 A i133 A 7 2 12450 96000 12450 95550 2 10650 95550 10650 95250 2 13200 95550 13200 92700 2 13200 92700 15150 92700 2 15150 92700 15150 93300 2 13200 95550 12450 95550 2 10650 95550 12450 95550 1 12450 95550 
 hades.signals.SignalStdLogicVector n281 14 2 i133 Y i134 A 3 2 15750 95100 15750 97500 2 15750 97500 -3900 97500 2 -3900 97500 -3900 98700 0 
-hades.signals.SignalStdLogic1164 n280 2 i115 Y1 unnamed6 CC 1 2 130950 90300 26400 90000 0 
-hades.signals.SignalStdLogicVector n415_0_1 7 2 unnamed12 i17 i80 A 9 2 59700 134550 55950 134550 2 59550 134550 59700 134550 2 59700 134550 59700 109350 2 155400 109350 155250 84150 2 155250 84150 155250 -39150 2 155250 -39150 134400 -39150 2 134400 -29100 134400 -39150 2 155400 109350 63600 109350 2 63600 109350 59700 109350 1 59700 134550 
-hades.signals.SignalStdLogic1164 n51_1 2 Double_Dabble_4_Bit O3 unnamed1 AA 3 2 130950 60000 128400 60000 2 128400 60000 128400 65400 2 122400 65400 128400 65400 0 
-hades.signals.SignalStdLogic1164 n51_0 2 Double_Dabble_4_Bit O1 unnamed1 CC 4 2 128400 64200 122400 64200 2 128400 64200 129600 64200 2 129600 64200 129600 61200 2 130950 61200 129600 61200 0 
+hades.signals.SignalStdLogic1164 n280 2 i115 Y0 unnamed6 DD 2 2 131400 90900 130950 90900 2 26400 90600 130950 90900 0 
+hades.signals.SignalStdLogic1164 n233_0 2 i33 Y5 Double_Dabble_4_Bit19 i0 8 2 95400 66600 94950 66600 2 94950 66600 94950 65850 2 94950 65850 94500 65850 2 -8400 61950 -8400 62400 2 -8400 62400 -8400 65700 2 -8400 65700 81000 65850 2 94500 65850 81150 65850 2 81000 65850 81150 65850 0 
 hades.signals.SignalStdLogic1164 n319 2 i80 Y1 i95 F 1 2 133650 -26850 137400 -27900 0 
 hades.signals.SignalStdLogic1164 n318 2 i80 Y2 i95 E 1 2 133350 -26850 136800 -27900 0 
 hades.signals.SignalStdLogic1164 n317 2 i80 Y3 i95 D 1 2 133050 -26850 136200 -27900 0 
 hades.signals.SignalStdLogic1164 n316 2 i80 Y4 i95 C 1 2 132750 -26850 135600 -27900 0 
 hades.signals.SignalStdLogic1164 n315 2 i80 Y5 i95 B 1 2 132450 -26850 135000 -27900 0 
 hades.signals.SignalStdLogic1164 n314 2 i70 Y9 i84 A9 1 2 -10650 80850 -10650 78600 0 
-hades.signals.SignalStdLogic1164 n313 2 i29 GND Double_Dabble_4_Bit34 O4 3 2 124350 82650 124350 80700 2 124350 80700 124200 80700 2 122550 80700 124200 80700 0 
-hades.signals.SignalStdLogic1164 n322_0 6 i83 GND Double_Dabble_4_Bit34 i3 Double_Dabble_4_Bit33 i3 Double_Dabble_4_Bit29 i3 Double_Dabble_4_Bit12 i3 Double_Dabble_4_Bit22 i3 15 2 36000 74100 36000 73500 2 117750 80700 99900 80700 2 99900 80700 99900 78750 2 83100 78750 83100 76950 2 84000 76950 83250 76950 2 64950 76950 64950 75000 2 49800 73500 46800 73500 2 46800 75000 46800 73500 2 67350 75000 64950 75000 2 46800 75000 64950 75000 2 83250 76950 83100 76950 2 64950 76950 83100 76950 2 100650 78750 99900 78750 2 83100 78750 99900 78750 2 46800 73500 36000 73500 4 83100 76950 64950 75000 46800 73500 99900 78750 
+hades.signals.SignalStdLogic1164 n313 2 i29 GND Double_Dabble_4_Bit6 O4 4 2 124350 82650 124350 80700 2 124350 80700 124200 80700 2 122550 80700 124200 80700 2 122550 80700 122250 80700 0 
 hades.signals.SignalStdLogic1164 n312 2 i70 Y8 i84 A8 1 2 -10050 78600 -10050 80850 0 
-hades.signals.SignalStdLogic1164 n279 2 i115 Y0 unnamed6 DD 1 2 26400 90600 130950 90900 0 
-hades.signals.SignalStdLogic1164 n311 2 i121 Y0 unnamed9 DD 1 2 25950 104100 131250 104400 0 
+hades.signals.SignalStdLogicVector n279 7 2 unnamed7 i17 i77 A 5 2 136650 94050 150750 94050 2 112200 -29100 112200 -35550 2 112200 -35550 117150 -35550 2 150750 -35550 150750 94050 2 150750 -35550 117150 -35550 0 
+hades.signals.SignalStdLogic1164 n311 2 i122 Y3 unnamed10 AA 5 2 132150 106800 131250 106800 2 26700 112200 28500 112200 2 131250 106800 28500 106800 2 28500 112050 28500 106800 2 28500 112050 28500 112200 0 
 hades.signals.SignalStdLogicVector n278 14 3 i137 SUM i139 A i138 A 7 2 12150 102000 12150 101400 2 10350 100950 10350 101400 2 15150 98700 15150 98250 2 15150 98250 13200 98250 2 13200 98250 13200 101400 2 13200 101400 12150 101400 2 10350 101400 12150 101400 1 12150 101400 
-hades.signals.SignalStdLogic1164 n310 2 i121 Y1 unnamed9 CC 1 2 131250 103800 25950 103500 0 
+hades.signals.SignalStdLogic1164 n310 2 i121 Y1 unnamed9 CC 2 2 25950 103500 131400 103800 2 131400 103800 132000 103800 0 
 hades.signals.SignalStdLogic1164 n277 11 i113 VCC i110 A0 i110 A1 i110 A2 i110 A3 i110 A4 i110 A5 i110 A6 i110 A7 i110 A8 i110 A9 21 2 26250 76950 26250 76500 2 25650 76950 25650 76500 2 25050 76950 25050 76500 2 24450 76950 24450 76500 2 23850 76950 23850 76500 2 23250 76950 23250 76500 2 22650 76950 22650 76500 2 22050 76950 22050 76500 2 21450 76950 21450 76500 2 20850 76950 20850 76500 2 28950 76500 28950 75900 2 20850 76500 21450 76500 2 21450 76500 22050 76500 2 22050 76500 22650 76500 2 22650 76500 23250 76500 2 23250 76500 23850 76500 2 23850 76500 24450 76500 2 24450 76500 25050 76500 2 25050 76500 25650 76500 2 28950 76500 26250 76500 2 25650 76500 26250 76500 9 23850 76500 24450 76500 26250 76500 21450 76500 22050 76500 22650 76500 23250 76500 25050 76500 25650 76500 
 hades.signals.SignalStdLogic1164 n276 5 i112 GND i110 A13 i110 A12 i110 A11 i110 A10 9 2 18450 76950 18450 76500 2 19050 76950 19050 76500 2 19650 76950 19650 76500 2 15300 76950 15300 76500 2 20250 76500 20250 76950 2 20250 76500 19650 76500 2 19650 76500 19050 76500 2 15300 76500 18450 76500 2 19050 76500 18450 76500 3 19050 76500 19650 76500 18450 76500 
 hades.signals.SignalStdLogic1164 n275 2 i75 Y6 i99 A 1 2 107700 -26700 101850 -27900 0 
@@ -492,12 +495,12 @@ hades.signals.SignalStdLogicVector n273 14 2 i135 Y i136 A 5 2 5100 98700 5100 9
 hades.signals.SignalStdLogicVector n272 14 2 i108 Y i109 B 5 2 5700 87300 5700 87750 2 5700 87750 8400 87750 2 8400 87750 8400 83550 2 8400 83550 12600 83550 2 12600 83550 12600 85050 0 
 hades.signals.SignalStdLogicVector n271 14 2 i107 Y i108 A 5 2 1200 87300 1200 87900 2 1200 87900 3600 87900 2 3600 87900 3600 84900 2 3600 84900 5700 84900 2 5700 84900 5700 85500 0 
 hades.signals.SignalStdLogicVector n270 14 3 i97 Y i107 A i109 A 9 2 -3600 87300 -3600 87900 2 -3600 87900 -1350 87900 2 -1350 87900 -1350 84900 2 -450 84900 1200 84900 2 1200 84900 1200 85500 2 -1350 84900 -450 84900 2 -450 84900 -450 84150 2 -450 84150 10200 84150 2 10200 84150 10200 85050 1 -450 84900 
-hades.signals.SignalStdLogic1164 n309 2 i121 Y2 unnamed9 BB 1 2 25950 102900 131250 103200 0 
-hades.signals.SignalStdLogic1164 n308 2 i121 Y3 unnamed9 AA 1 2 131250 102600 25950 102300 0 
-hades.signals.SignalStdLogic1164 n307 2 i120 Y0 unnamed8 DD 1 2 26100 99900 131250 100200 0 
-hades.signals.SignalStdLogic1164 n306 2 i120 Y1 unnamed8 CC 1 2 131250 99600 26100 99300 0 
-hades.signals.SignalStdLogic1164 n305 2 i120 Y2 unnamed8 BB 1 2 26100 98700 131250 99000 0 
-hades.signals.SignalStdLogic1164 n304 2 i120 Y3 unnamed8 AA 1 2 131250 98400 26100 98100 0 
+hades.signals.SignalStdLogic1164 n309 2 i121 Y0 unnamed9 DD 1 2 132000 104400 25950 104100 0 
+hades.signals.SignalStdLogic1164 n308 2 i121 Y2 unnamed9 BB 2 2 132000 103200 131250 103200 2 25950 102900 131250 103200 0 
+hades.signals.SignalStdLogic1164 n307 2 i121 Y3 unnamed9 AA 2 2 132000 102600 131250 102600 2 131250 102600 25950 102300 0 
+hades.signals.SignalStdLogic1164 n306 2 i120 Y0 unnamed8 DD 2 2 132000 100200 131250 100200 2 26100 99900 131250 100200 0 
+hades.signals.SignalStdLogic1164 n305 2 i120 Y1 unnamed8 CC 2 2 132000 99600 131250 99600 2 131250 99600 26100 99300 0 
+hades.signals.SignalStdLogic1164 n304 2 i120 Y2 unnamed8 BB 2 2 132000 99000 131250 99000 2 26100 98700 131250 99000 0 
 hades.signals.SignalStdLogicVector n303 14 3 i140 Y i143 A i141 A 9 2 9150 104550 9150 103800 2 9150 103800 -600 103800 2 -600 103800 -600 104100 2 -4050 106350 -4050 106800 2 -4050 106800 -1800 106800 2 -1800 106800 -1800 104100 2 450 104100 450 104550 2 -1800 104100 -600 104100 2 450 104100 -600 104100 1 -600 104100 
 hades.signals.SignalStdLogicVector n302 14 2 i141 Y i142 A 5 2 450 106350 450 106800 2 450 106800 2850 106800 2 2850 106800 2850 104250 2 2850 104250 5100 104250 2 5100 104250 5100 104550 0 
 hades.signals.SignalStdLogicVector n269 2 3 i106 Y i82 B i82 A 5 2 -11250 83250 -11250 82950 2 750 82650 750 82950 2 -11850 82950 -11850 83250 2 750 82950 -11250 82950 2 -11850 82950 -11250 82950 1 -11250 82950 
@@ -514,7 +517,7 @@ hades.signals.SignalStdLogic1164 n261 2 i70 Y4 i84 A4 1 2 -7650 78600 -7650 8085
 hades.signals.SignalStdLogic1164 n260 2 i70 Y3 i84 A3 1 2 -7050 80850 -7050 78600 0 
 hades.signals.SignalStdLogicVector n259 16 3 i36 Y A_(como_INT) A i67 B 11 2 96150 -20850 57150 -20850 2 57150 -20850 57150 -20550 2 60150 -11250 60150 -5850 2 60150 -5850 57900 -5850 2 -25200 18750 -25200 3000 2 -25200 3000 -25200 -5850 2 -25200 -5850 28200 -5850 2 28200 -5850 57900 -5850 2 60150 -12300 60150 -11250 2 60150 -11250 57150 -11250 2 57150 -11250 57150 -20550 1 60150 -11250 
 hades.signals.SignalStdLogicVector n258 1 2 i68 Y i36 A 1 2 59550 -14550 59550 -12900 0 
-hades.signals.SignalStdLogicVector n257 7 2 unnamed8 i17 i78 A 6 2 117150 -29100 117150 -36450 2 136050 98400 152550 98400 2 117150 -36450 151500 -36450 2 151500 -36450 152550 -36450 2 152550 -36450 152550 97950 2 152550 97950 152550 98400 0 
+hades.signals.SignalStdLogicVector n257 7 2 unnamed8 i17 i78 A 6 2 136800 98400 152550 98400 2 152550 98400 152550 97950 2 117150 -29100 117150 -36450 2 117150 -36450 151500 -36450 2 151500 -36450 152550 -36450 2 152550 -36450 152550 97950 0 
 hades.signals.SignalStdLogicVector n256 5 2 Exponent-A Y i36 B 8 2 77400 -14550 77400 -13500 2 77400 -13500 60150 -13500 2 60150 -13500 60150 -12900 2 77400 -14550 77400 -28950 2 77400 -28950 77400 -29700 2 77400 -29700 89850 -29700 2 89850 -29700 89850 -28050 2 89850 -28050 89700 -28050 0 
 hades.signals.SignalStdLogicVector n255 10 2 Mantissa-A Y i36 C 8 2 60750 -12900 60750 -13200 2 60750 -13200 82200 -13200 2 82200 -13200 82200 -28950 2 82200 -28950 89850 -28950 2 89850 -28950 90000 -28950 2 90000 -28950 97200 -28950 2 97200 -28950 97200 -28050 2 97200 -28050 96900 -28050 0 
 hades.signals.SignalStdLogicVector n254 10 2 Mantissa-B Y i41 C 7 2 68850 -8400 68850 -10050 2 68850 -10050 82650 -10050 2 82650 -10050 82650 -25200 2 82650 -25200 96300 -25200 2 96300 -25200 97350 -25200 2 97350 -25200 97350 -26400 2 97350 -26400 96900 -26400 0 
@@ -523,17 +526,15 @@ hades.signals.SignalStdLogicVector n252 5 2 Exponent-B Y i41 B 9 2 68250 -8400 6
 hades.signals.SignalStdLogic1164 n251 2 i70 Y1 i84 A1 1 2 -5850 80850 -5850 78600 0 
 hades.signals.SignalStdLogic1164 n250 7 i157 GND i100 A i100 B i100 C i100 D i100 E i100 F 7 2 132750 -20100 132750 -20700 2 132750 -20700 129600 -26850 2 132750 -20700 129900 -26850 2 132750 -20700 130200 -26850 2 132750 -20700 130500 -26850 2 132750 -20700 130800 -26850 2 132750 -20700 131100 -26850 1 132750 -20700 
 hades.signals.SignalStdLogicVector n275_0 4 2 i145 Y i121 A 11 2 25350 101700 25350 100950 2 25350 100950 25200 100950 2 12150 108600 12150 108900 2 12150 108900 18600 108900 2 18600 108900 18900 108900 2 18900 108900 18900 106950 2 18900 106950 18900 103350 2 18900 103350 21000 103350 2 21000 103350 21000 100950 2 21000 100950 24150 100950 2 24150 100950 25200 100950 0 
+hades.signals.SignalStdLogic1164 n154_0 2 Double_Dabble_4_Bit30 O4 Double_Dabble_4_Bit24 i2 6 2 72750 74850 73050 74850 2 73050 74850 73050 76350 2 84300 76350 84000 76350 2 84000 76350 83250 76350 2 83250 76350 73050 76350 2 72900 76350 73050 76350 1 73050 76350 
 hades.signals.SignalStdLogicVector n247_1 16 9 B Y i40 B i44 B i48 B i51 B i54 B i57 B i38 B i24 B 23 2 81300 2400 83100 2400 2 41400 17400 41400 3750 2 33000 18000 33000 3750 2 24000 18600 24000 3750 2 13800 18600 13800 3750 2 3600 18600 3600 3750 2 -6600 18600 -6600 3750 2 50400 16800 50400 3750 2 83100 -1200 67650 -1200 2 67650 -1200 67650 3750 2 67650 3750 59400 3750 2 59400 3750 59400 16800 2 59400 3750 50400 3750 2 3450 3750 3300 3750 2 3300 3750 -6600 3750 2 3450 3750 3600 3750 2 3600 3750 13800 3750 2 13800 3750 24000 3750 2 24000 3750 33000 3750 2 50400 3750 41400 3750 2 33000 3750 41400 3750 2 83100 -1200 83100 2250 2 83100 2250 83100 2400 7 13800 3750 24000 3750 33000 3750 41400 3750 59400 3750 50400 3750 3600 3750 
 hades.signals.SignalStdLogic1164 n249 7 i156 GND i151 A i151 B i151 C i151 D i151 E i151 F 7 2 107250 -20250 107250 -20550 2 107250 -20550 105000 -26700 2 107250 -20550 105300 -26700 2 107250 -20550 105600 -26700 2 107250 -20550 105900 -26700 2 107250 -20550 106200 -26700 2 107250 -20550 106500 -26700 1 107250 -20550 
-hades.signals.SignalStdLogic1164 n248 2 i33 Y15 Double_Dabble_4_Bit12 i2 4 2 -14400 61950 -14400 71700 2 49800 72900 37950 72900 2 37950 71700 -14400 71700 2 37950 71700 37950 72900 0 
 hades.signals.SignalStdLogic1164 n247 3 i4 VCC i67 A i66 A 5 2 -29100 10800 -29100 11400 2 -26400 18750 -26400 11400 2 -22650 18750 -22650 11400 2 -22650 11400 -26400 11400 2 -26400 11400 -29100 11400 1 -26400 11400 
 hades.signals.SignalStdLogic1164 n246 2 i70 Y0 i84 A0 1 2 -5250 78600 -5250 80850 0 
 hades.signals.SignalStdLogicVector n245 16 2 i1 Y i30 A1 1 2 -14100 56100 -14100 56850 0 
 hades.signals.SignalStdLogic1164 n244 2 i80 Y6 i95 A 1 2 132150 -26850 134400 -27900 0 
 hades.signals.SignalStdLogic1164 n243 10 i94 GND i92 C i92 B i98 A i98 B i98 C i98 D i98 E i98 F i98 G 13 2 127500 -26850 125100 -20850 2 125100 -20550 125100 -20850 2 125100 -20850 127200 -26850 2 125100 -19800 125100 -20550 2 125100 -20550 109350 -20550 2 109200 -20550 110250 -26700 2 109350 -20550 109200 -20550 2 109200 -20550 110550 -26700 2 109200 -20550 110850 -26700 2 109200 -20550 111150 -26700 2 109200 -20550 111450 -26700 2 109200 -20550 111750 -26700 2 109200 -20550 112050 -26700 3 109200 -20550 125100 -20850 125100 -20550 
 hades.signals.SignalStdLogicVector n243_1 14 2 i82 Y i97 A 6 2 -11250 83850 -11250 84600 2 -11250 84600 -9900 84600 2 -9900 84600 -9900 84900 2 -9900 84900 -7350 84900 2 -3600 84900 -3600 85500 2 -3600 84900 -7350 84900 0 
-hades.signals.SignalStdLogic1164 n242 2 Prender_Display1 Y i0 A 10 2 96900 -22950 97500 -22950 2 97500 -22950 97500 -24000 2 97500 -24000 88950 -24000 2 88950 -24000 88950 11700 2 88950 11700 88950 12000 2 88950 12000 79200 12000 2 79200 12000 79200 10800 2 77250 10800 78150 10800 2 80250 10800 79200 10800 2 78150 10800 79200 10800 1 79200 10800 
-hades.signals.SignalStdLogicVector n241 16 2 i66 Y unnamed5 i0 5 2 -25800 24750 -26250 24750 2 -26250 24750 -26250 24600 2 -26250 24600 -26250 23250 2 -22050 20550 -22050 23250 2 -22050 23250 -26250 23250 0 
 hades.signals.SignalStdLogic1164 n240 2 i65 Y0 i73 G 1 2 106200 2250 102000 300 0 
 hades.signals.SignalStdLogicVector n360_1 16 2 i30 Y i33 A 3 2 -13500 58650 -13500 59850 2 -14400 59850 -13500 59850 2 -14400 59850 -14400 60750 0 
 hades.signals.SignalStdLogic1164 n239 2 i65 Y1 i73 F 1 2 105900 2250 101400 300 0 
@@ -541,170 +542,168 @@ hades.signals.SignalStdLogic1164 n238 2 i65 Y2 i73 E 1 2 105600 2250 100800 300 
 hades.signals.SignalStdLogic1164 n237 2 i65 Y3 i73 D 1 2 105300 2250 100200 300 0 
 hades.signals.SignalStdLogic1164 n236 2 i65 Y4 i73 C 1 2 105000 2250 99600 300 0 
 hades.signals.SignalStdLogic1164 n235 2 i65 Y5 i73 B 1 2 104700 2250 99000 300 0 
-hades.signals.SignalStdLogicVector n234 16 2 i67 Y unnamed5 i3 5 2 -25800 25350 -27000 25350 2 -27000 25350 -27000 25200 2 -27000 22350 -25800 22350 2 -25800 22350 -25800 20550 2 -27000 22350 -27000 25200 0 
-hades.signals.SignalStdLogic1164 n233 2 Double_Dabble_4_Bit33 O4 Double_Dabble_4_Bit34 i2 3 2 117750 80100 105750 80100 2 105750 80100 105750 78750 2 105750 78750 105450 78750 0 
-hades.signals.SignalStdLogic1164 n232 2 Double_Dabble_4_Bit32 O4 Double_Dabble_4_Bit34 i1 3 2 111000 78150 111600 78150 2 111600 78150 111600 79500 2 111600 79500 117750 79500 0 
-hades.signals.SignalStdLogic1164 n199 2 Double_Dabble_4_Bit22 O4 Double_Dabble_4_Bit29 i2 5 2 84000 76350 83250 76350 2 83250 76350 72900 76350 2 72900 76350 72450 76350 2 72450 76350 72450 75000 2 72450 75000 72150 75000 0 
-hades.signals.SignalStdLogic1164 n231 2 Double_Dabble_4_Bit31 O4 Double_Dabble_4_Bit34 i0 3 2 116850 77550 117150 77550 2 117150 77550 117150 78900 2 117150 78900 117750 78900 0 
+hades.signals.SignalStdLogicVector n234 16 3 Float16,_Adder/Subtracter i15 i70 A Para_corroborar_operaciones_flotantes A 11 2 -21000 24600 -19800 24600 2 -14250 77400 -14250 72750 2 -19800 24750 -19650 24750 2 -14250 72750 -19650 72750 2 -19650 72750 -19650 68250 2 -19650 24750 -19650 68250 2 -19800 -3600 94500 -3600 2 96150 -17100 94500 -17100 2 94500 -17100 94500 -3600 2 -19800 24750 -19800 24600 2 -19800 -3600 -19800 24600 1 -19800 24600 
+hades.signals.SignalStdLogicVector n233 16 2 i66 Y Float16,_Adder/Subtracter i0 4 2 -22050 20550 -22050 23400 2 -22050 23400 -26250 23400 2 -26250 23400 -26250 24600 2 -26250 24600 -25800 24600 0 
+hades.signals.SignalStdLogic1164 n232 2 Double_Dabble_4_Bit13 O4 Double_Dabble_4_Bit6 i1 3 2 111600 78150 111900 78150 2 111900 78150 111900 79500 2 117450 79500 111900 79500 0 
 hades.signals.SignalStdLogicVector n304_1 14 2 i142 Y i143 B 6 2 11550 104550 11550 103050 2 11550 103050 7500 103050 2 7500 103050 7500 104250 2 5100 106350 5100 106650 2 5100 106650 7500 106650 2 7500 106650 7500 104250 0 
-hades.signals.SignalStdLogic1164 n198 2 Double_Dabble_4_Bit21 O4 Double_Dabble_4_Bit29 i1 5 2 84000 75750 83250 75750 2 83250 75750 78450 75750 2 78450 75750 78000 75750 2 78000 75750 78000 74400 2 78000 74400 77700 74400 0 
-hades.signals.SignalStdLogic1164 n230 2 Double_Dabble_4_Bit34 O3 unnamed4 AA 3 2 122550 80100 128850 80100 2 128850 80100 128850 79800 2 128850 79800 131100 79800 0 
-hades.signals.SignalStdLogic1164 n197 2 Double_Dabble_4_Bit20 O4 Double_Dabble_4_Bit29 i0 3 2 84000 75150 83550 75150 2 83550 75150 83550 73800 2 83550 73800 83250 73800 0 
-hades.signals.SignalStdLogic1164 n196 2 Double_Dabble_4_Bit29 O3 Double_Dabble_4_Bit28 i3 1 2 89400 76350 88800 76350 0 
-hades.signals.SignalStdLogic1164 n195 2 Double_Dabble_4_Bit29 O2 Double_Dabble_4_Bit28 i2 1 2 89400 75750 88800 75750 0 
+hades.signals.SignalStdLogic1164 n231 2 Double_Dabble_4_Bit13 O3 Double_Dabble_4_Bit8 i3 1 2 112200 77550 111600 77550 0 
+hades.signals.SignalStdLogic1164 n199 2 Double_Dabble_4_Bit5 O2 unnamed3 BB 5 2 131400 75600 131100 75600 2 131100 75600 123150 75600 2 123150 75600 123150 75750 2 123150 75750 122400 75750 2 122400 75750 122250 75750 0 
+hades.signals.SignalStdLogic1164 n230 2 Double_Dabble_4_Bit6 O2 unnamed4 BB 5 2 131250 80400 131100 80400 2 122550 79500 127950 79500 2 127950 79500 127950 80400 2 127950 80400 131100 80400 2 122550 79500 122250 79500 0 
+hades.signals.SignalStdLogicVector n198 7 2 unnamed3 i17 i64 A 9 2 136200 75000 142650 75000 2 142650 75000 142650 43650 2 142650 43650 142650 12600 2 142650 12600 144450 12600 2 144450 12600 144450 -4200 2 144450 -4200 104100 -4200 2 104100 -4200 103950 -4200 2 103950 -4200 103500 -4200 2 103200 -900 103500 -4200 0 
+hades.signals.SignalStdLogic1164 n197 2 i33 Y12 Double_Dabble_4_Bit33 i0 6 2 56250 71250 54900 71250 2 54900 71250 54900 70950 2 -12600 61950 -12600 62400 2 54900 70950 54900 70050 2 54900 70050 -12750 70050 2 -12750 70050 -12600 62400 0 
+hades.signals.SignalStdLogic1164 n196 2 Double_Dabble_4_Bit24 O3 Double_Dabble_4_Bit22 i3 1 2 89100 76350 89850 76350 0 
 hades.signals.SignalStdLogic1164 n17_0_0_0_0_0_0 7 i3 Y3 i21 B i19 S i46 A i44 A i45 A i15 B 27 2 19200 13800 26400 13800 2 26400 13800 26400 17400 2 39000 47400 37800 47400 2 37800 47400 28800 47400 2 28800 47400 28800 45000 2 37200 39600 28800 39600 2 30600 33600 30600 30600 2 28200 30600 28200 20400 2 28200 20400 26400 20400 2 26400 20400 26400 17400 2 31800 18000 31800 17400 2 31800 17400 28200 17400 2 28200 17400 28200 18000 2 28200 17400 26400 17400 2 30600 30600 28800 30600 2 28200 30600 28800 30600 2 28800 39600 28800 45000 2 28800 39600 28800 38400 2 28800 30600 28800 38400 2 28800 47400 27000 47400 2 27000 47400 27000 49800 2 27000 49800 10200 49800 2 10200 49800 7200 49800 2 7200 49800 7200 57600 2 7200 57600 9000 57600 2 19200 13800 18600 13800 2 18600 13800 18600 11400 5 26400 17400 28800 39600 28200 17400 28800 30600 28800 47400 
-hades.signals.SignalStdLogic1164 n194 2 Double_Dabble_4_Bit29 O1 Double_Dabble_4_Bit28 i1 1 2 89400 75150 88800 75150 0 
-hades.signals.SignalStdLogic1164 n193 2 Double_Dabble_4_Bit19 O4 Double_Dabble_4_Bit28 i0 3 2 88800 73200 89100 73200 2 89100 73200 89100 74550 2 89100 74550 89400 74550 0 
+hades.signals.SignalStdLogic1164 n195 2 Double_Dabble_4_Bit24 O2 Double_Dabble_4_Bit22 i2 1 2 89850 75750 89100 75750 0 
+hades.signals.SignalStdLogic1164 n194 2 Double_Dabble_4_Bit24 O1 Double_Dabble_4_Bit22 i1 1 2 89100 75150 89850 75150 0 
+hades.signals.SignalStdLogic1164 n193 2 Double_Dabble_4_Bit23 O4 Double_Dabble_4_Bit22 i0 3 2 89850 74550 89400 74550 2 89400 74550 89400 73200 2 89400 73200 88950 73200 0 
 hades.signals.SignalStdLogicVector n421_0 4 2 i123 Y i103 A1 3 2 24150 117600 24150 113400 2 15900 112050 15900 113400 2 15900 113400 24150 113400 0 
-hades.signals.SignalStdLogic1164 n192 2 Double_Dabble_4_Bit28 O3 Double_Dabble_4_Bit27 i3 1 2 94800 75750 94200 75750 0 
-hades.signals.SignalStdLogic1164 n191 2 Double_Dabble_4_Bit28 O2 Double_Dabble_4_Bit27 i2 1 2 94800 75150 94200 75150 0 
-hades.signals.SignalStdLogic1164 n190 2 Double_Dabble_4_Bit28 O1 Double_Dabble_4_Bit27 i1 1 2 94800 74550 94200 74550 0 
-hades.signals.SignalStdLogic1164 n229 2 Double_Dabble_4_Bit34 O2 unnamed4 BB 3 2 122550 79500 127950 79500 2 127950 79500 127950 80400 2 127950 80400 131100 80400 0 
-hades.signals.SignalStdLogic1164 n228 2 Double_Dabble_4_Bit34 O1 unnamed4 CC 3 2 122550 78900 127500 78900 2 127500 78900 127500 81000 2 127500 81000 131100 81000 0 
-hades.signals.SignalStdLogic1164 n227 2 Double_Dabble_4_Bit30 O4 unnamed4 DD 3 2 131100 81600 126000 81600 2 126000 81600 126000 76950 2 126000 76950 122400 76950 0 
+hades.signals.SignalStdLogic1164 n192 2 Double_Dabble_4_Bit22 O4 Double_Dabble_4_Bit16 i1 4 2 94650 76350 95100 76350 2 100650 77550 101100 77550 2 100650 77550 95100 77550 2 95100 77550 95100 76350 0 
+hades.signals.SignalStdLogic1164 n191 2 Double_Dabble_4_Bit22 O3 Double_Dabble_4_Bit17 i3 1 2 95700 75750 94650 75750 0 
+hades.signals.SignalStdLogic1164 n190 2 Double_Dabble_4_Bit22 O2 Double_Dabble_4_Bit17 i2 1 2 95700 75150 94650 75150 0 
+hades.signals.SignalStdLogic1164 n229 2 Double_Dabble_4_Bit6 O1 unnamed4 CC 5 2 131250 81000 131100 81000 2 122550 78900 127500 78900 2 127500 78900 127500 81000 2 127500 81000 131100 81000 2 122550 78900 122250 78900 0 
+hades.signals.SignalStdLogic1164 n228 2 Double_Dabble_4_Bit5 O4 unnamed4 DD 5 2 131250 81600 131100 81600 2 131100 81600 126000 81600 2 126000 81600 126000 76950 2 126000 76950 122400 76950 2 122400 76950 122250 76950 0 
+hades.signals.SignalStdLogicVector n227 7 2 unnamed4 i17 i65 A 9 2 136050 79800 141750 79800 2 141750 63150 141750 79800 2 141750 63150 141750 45600 2 98400 -900 98400 -2700 2 98400 -2700 98400 -4650 2 98400 -4650 145050 -4650 2 145050 -4650 145050 12000 2 145050 12000 141750 12000 2 141750 12000 141750 45600 0 
 hades.signals.SignalStdLogic1164 n226 2 i64 Y0 i72 G 1 2 108900 2250 106800 300 0 
 hades.signals.SignalStdLogic1164 n225 2 i64 Y1 i72 F 1 2 106200 300 108600 2250 0 
 hades.signals.SignalStdLogic1164 n224 2 i64 Y2 i72 E 1 2 108300 2250 105600 300 0 
-hades.signals.SignalStdLogic1164 n357_0 2 i122 Y2 unnamed10 BB 3 2 26700 112800 29100 112800 2 131250 107400 29100 107400 2 29100 107400 29100 112800 0 
 hades.signals.SignalStdLogic1164 n223 2 i64 Y3 i72 D 1 2 105000 300 108000 2250 0 
 hades.signals.SignalStdLogic1164 n222 2 i64 Y4 i72 C 1 2 107700 2250 104400 300 0 
-hades.signals.SignalStdLogic1164 n189 2 Double_Dabble_4_Bit18 O4 Double_Dabble_4_Bit27 i0 3 2 94800 73950 94500 73950 2 94500 73950 94500 72600 2 94500 72600 94200 72600 0 
 hades.signals.SignalStdLogic1164 n221 2 i64 Y5 i72 B 1 2 103800 300 107400 2250 0 
-hades.signals.SignalStdLogic1164 n188 2 Double_Dabble_4_Bit27 O3 Double_Dabble_4_Bit26 i3 1 2 100350 75150 99600 75150 0 
-hades.signals.SignalStdLogicVector n220 7 2 unnamed2 i17 i62 A 8 2 135750 65700 144600 65700 2 112800 -900 112800 -3450 2 112800 -3450 145950 -3450 2 145950 -3450 145950 13800 2 145950 13800 144600 13800 2 144600 13800 144600 24000 2 144600 24000 144600 63000 2 144600 63000 144600 65700 0 
-hades.signals.SignalStdLogic1164 n187 2 Double_Dabble_4_Bit27 O2 Double_Dabble_4_Bit26 i2 1 2 100350 74550 99600 74550 0 
-hades.signals.SignalStdLogic1164 n186 2 Double_Dabble_4_Bit27 O1 Double_Dabble_4_Bit26 i1 1 2 100350 73950 99600 73950 0 
-hades.signals.SignalStdLogic1164 n185 2 Double_Dabble_4_Bit17 O4 Double_Dabble_4_Bit26 i0 3 2 100350 73350 99900 73350 2 99900 73350 99900 72000 2 99900 72000 99600 72000 0 
-hades.signals.SignalStdLogic1164 n184 2 Double_Dabble_4_Bit26 O3 Double_Dabble_4_Bit25 i3 1 2 106050 74550 105150 74550 0 
-hades.signals.SignalStdLogic1164 n183 2 Double_Dabble_4_Bit26 O2 Double_Dabble_4_Bit25 i2 1 2 106050 73950 105150 73950 0 
-hades.signals.SignalStdLogic1164 n182 2 Double_Dabble_4_Bit26 O1 Double_Dabble_4_Bit25 i1 1 2 106050 73350 105150 73350 0 
-hades.signals.SignalStdLogic1164 n181 2 Double_Dabble_4_Bit16 O4 Double_Dabble_4_Bit25 i0 3 2 106050 72750 105600 72750 2 105600 72750 105600 71400 2 105600 71400 105150 71400 0 
-hades.signals.SignalStdLogic1164 n180 2 Double_Dabble_4_Bit25 O3 Double_Dabble_4_Bit24 i3 1 2 112050 73950 110850 73950 0 
+hades.signals.SignalStdLogic1164 n189 2 Double_Dabble_4_Bit22 O1 Double_Dabble_4_Bit17 i1 1 2 94650 74550 95700 74550 0 
+hades.signals.SignalStdLogic1164 n220 2 Double_Dabble_4_Bit13 O2 Double_Dabble_4_Bit8 i2 1 2 112200 76950 111600 76950 0 
+hades.signals.SignalStdLogic1164 n188 2 Double_Dabble_4_Bit17 O3 Double_Dabble_4_Bit15 i3 1 2 100500 75150 101100 75150 0 
+hades.signals.SignalStdLogic1164 n187 2 Double_Dabble_4_Bit17 O2 Double_Dabble_4_Bit15 i2 1 2 101100 74550 100500 74550 0 
+hades.signals.SignalStdLogic1164 n186 2 Double_Dabble_4_Bit17 O1 Double_Dabble_4_Bit15 i1 1 2 100500 73950 101100 73950 0 
+hades.signals.SignalStdLogic1164 n185 6 i83 GND Double_Dabble_4_Bit34 i3 Double_Dabble_4_Bit30 i3 Double_Dabble_4_Bit24 i3 Double_Dabble_4_Bit6 i3 Double_Dabble_4_Bit16 i3 19 2 50100 73500 49800 73500 2 67950 74850 64950 74850 2 64950 74850 64950 75000 2 84300 76950 84000 76950 2 117450 80700 99900 80700 2 36000 74100 36000 73500 2 99900 80700 99900 78750 2 83100 78750 83100 76950 2 84000 76950 83250 76950 2 64950 76950 64950 75000 2 49800 73500 46800 73500 2 46800 75000 46800 73500 2 46800 75000 64950 75000 2 83250 76950 83100 76950 2 64950 76950 83100 76950 2 100650 78750 99900 78750 2 83100 78750 99900 78750 2 46800 73500 36000 73500 2 100650 78750 101100 78750 4 83100 76950 64950 75000 46800 73500 99900 78750 
+hades.signals.SignalStdLogic1164 n184 2 Double_Dabble_4_Bit15 O2 Double_Dabble_4_Bit12 i2 1 2 105900 73950 106800 73950 0 
+hades.signals.SignalStdLogic1164 n183 2 Double_Dabble_4_Bit15 O3 Double_Dabble_4_Bit12 i3 1 2 105900 74550 106800 74550 0 
+hades.signals.SignalStdLogic1164 n182 2 Double_Dabble_4_Bit15 O4 Double_Dabble_4_Bit13 i0 3 2 106800 76350 106350 76350 2 106350 76350 106350 75150 2 106350 75150 105900 75150 0 
+hades.signals.SignalStdLogic1164 n181 2 Double_Dabble_4_Bit16 O3 Double_Dabble_4_Bit13 i3 1 2 105900 78150 106800 78150 0 
+hades.signals.SignalStdLogic1164 n180 2 Double_Dabble_4_Bit11 O3 Double_Dabble_4_Bit4 i3 1 2 111450 70200 112050 70200 0 
 hades.signals.SignalStdLogic1164 n219 2 i64 Y6 i72 A 1 2 107100 2250 103200 300 0 
-hades.signals.SignalStdLogic1164 n218 2 Double_Dabble_4_Bit30 O3 unnamed3 AA 4 2 122400 76350 129000 76350 2 129000 76350 129000 75150 2 129000 75150 129000 75000 2 129000 75000 131100 75000 0 
-hades.signals.SignalStdLogic1164 n217 2 Double_Dabble_4_Bit30 O2 unnamed3 BB 3 2 131100 75600 123150 75600 2 123150 75600 123150 75750 2 123150 75750 122400 75750 0 
-hades.signals.SignalStdLogic1164 n99 2 Double_Dabble_4_Bit13 O4 unnamed DD 3 2 131100 72450 127650 72450 2 122400 69600 127650 69600 2 127650 69600 127650 72450 0 
-hades.signals.SignalStdLogic1164 n216 2 Double_Dabble_4_Bit23 O4 unnamed3 DD 4 2 131100 76800 127650 76800 2 127650 76800 127650 76350 2 122400 73350 127650 73350 2 127650 73350 127650 76350 0 
-hades.signals.SignalStdLogicVector n98 7 2 unnamed i17 i63 A 8 2 135900 70650 143400 70650 2 107850 -900 108000 -3600 2 108000 -3600 145500 -3600 2 145500 -3600 145500 13200 2 145500 13200 143400 13200 2 143400 13200 143400 21150 2 143400 21150 143400 55650 2 143400 55650 143400 70650 0 
+hades.signals.SignalStdLogic1164 n218 2 Double_Dabble_4_Bit5 O1 unnamed3 CC 5 2 131400 76200 131100 76200 2 122400 75150 128250 75150 2 128250 75150 128250 76200 2 128250 76200 131100 76200 2 122400 75150 122250 75150 0 
+hades.signals.SignalStdLogic1164 n99 2 Double_Dabble_4_Bit5 O3 unnamed3 AA 6 2 131400 75000 131100 75000 2 122400 76350 129000 76350 2 129000 76350 129000 75150 2 129000 75150 129000 75000 2 129000 75000 131100 75000 2 122400 76350 122250 76350 0 
+hades.signals.SignalStdLogic1164 n216 2 Double_Dabble_4_Bit6 O3 unnamed4 AA 5 2 131250 79800 131100 79800 2 122550 80100 128850 80100 2 128850 80100 128850 79800 2 128850 79800 131100 79800 2 122550 80100 122250 80100 0 
 hades.signals.SignalStdLogic1164 n215 2 i65 Y6 i73 A 1 2 104400 2250 98400 300 0 
-hades.signals.SignalStdLogic1164 n97 2 i33 Y13 Double_Dabble_4_Bit12 i0 4 2 49800 71700 49500 71700 2 49500 71700 49500 70800 2 49500 70800 -13350 70800 2 -13350 70800 -13200 61950 0 
-hades.signals.SignalStdLogic1164 n214 2 Double_Dabble_4_Bit29 O4 Double_Dabble_4_Bit33 i2 3 2 100650 78150 89100 78150 2 89100 78150 89100 76950 2 89100 76950 88800 76950 0 
-hades.signals.SignalStdLogic1164 n96 2 Double_Dabble_4_Bit10 O3 Double_Dabble_4_Bit9 i3 1 2 67350 71550 66600 71550 0 
-hades.signals.SignalStdLogic1164 n213 2 Double_Dabble_4_Bit28 O4 Double_Dabble_4_Bit33 i1 4 2 100650 77550 94800 77550 2 94200 76350 94500 76350 2 94500 76350 94500 77550 2 94500 77550 94800 77550 0 
-hades.signals.SignalStdLogic1164 n95 2 Double_Dabble_4_Bit12 O3 Double_Dabble_4_Bit11 i3 1 2 55650 72750 54600 72900 0 
-hades.signals.SignalStdLogic1164 n212 2 Double_Dabble_4_Bit27 O4 Double_Dabble_4_Bit33 i0 3 2 99600 75750 100050 75750 2 100050 75750 100050 76950 2 100050 76950 100650 76950 0 
-hades.signals.SignalStdLogic1164 n94 2 Double_Dabble_4_Bit10 O2 Double_Dabble_4_Bit9 i2 1 2 67350 70950 66600 70950 0 
-hades.signals.SignalStdLogic1164 n211 2 Double_Dabble_4_Bit33 O3 Double_Dabble_4_Bit32 i3 1 2 106200 78150 105450 78150 0 
-hades.signals.SignalStdLogic1164 n179 2 Double_Dabble_4_Bit25 O2 Double_Dabble_4_Bit24 i2 1 2 112050 73350 110850 73350 0 
-hades.signals.SignalStdLogic1164 n93 2 i33 Y4 Double_Dabble_4_Bit4 i0 7 2 -7800 61950 -7800 62400 2 -7800 62400 -7800 65250 2 -7800 65250 -7800 65400 2 -7800 65400 85500 65400 2 100350 66000 99900 66000 2 99900 66000 99900 65400 2 99900 65400 85500 65400 0 
-hades.signals.SignalStdLogic1164 n210 2 Double_Dabble_4_Bit33 O2 Double_Dabble_4_Bit32 i2 1 2 106200 77550 105450 77550 0 
-hades.signals.SignalStdLogic1164 n178 2 Double_Dabble_4_Bit25 O1 Double_Dabble_4_Bit24 i1 1 2 112050 72750 110850 72750 0 
-hades.signals.SignalStdLogic1164 n92 2 Double_Dabble_4_Bit12 O2 Double_Dabble_4_Bit11 i2 1 2 55650 72150 54600 72300 0 
-hades.signals.SignalStdLogic1164 n177 2 Double_Dabble_4_Bit15 O4 Double_Dabble_4_Bit24 i0 3 2 112050 72150 111450 72150 2 111450 72150 111450 70800 2 111450 70800 110850 70800 0 
-hades.signals.SignalStdLogic1164 n91 2 Double_Dabble_4_Bit11 O1 Double_Dabble_4_Bit10 i1 1 2 61800 70950 60450 70950 0 
-hades.signals.SignalStdLogic1164 n176 2 Double_Dabble_4_Bit24 O3 Double_Dabble_4_Bit23 i3 1 2 117600 73350 116850 73350 0 
-hades.signals.SignalStdLogic1164 n90 2 i33 Y12 Double_Dabble_4_Bit11 i0 5 2 -12600 61950 -12600 62400 2 55650 70950 54900 70950 2 54900 70950 54900 70050 2 54900 70050 -12750 70050 2 -12750 70050 -12600 62400 0 
-hades.signals.SignalStdLogic1164 n175 2 Double_Dabble_4_Bit24 O2 Double_Dabble_4_Bit23 i2 1 2 117600 72750 116850 72750 0 
-hades.signals.SignalStdLogic1164 n174 2 Double_Dabble_4_Bit31 O1 Double_Dabble_4_Bit30 i1 1 2 117600 75750 116850 75750 0 
+hades.signals.SignalStdLogic1164 n98 2 Double_Dabble_4_Bit3 O4 unnamed3 DD 6 2 122250 73350 122400 73350 2 131400 76800 131100 76800 2 131100 76800 127650 76800 2 127650 76800 127650 76350 2 122250 73350 127650 73350 2 127650 73350 127650 76350 0 
+hades.signals.SignalStdLogic1164 n214 2 Double_Dabble_4_Bit19 O4 Double_Dabble_4_Bit14 i0 3 2 100200 68400 100500 68400 2 100500 68400 100500 69600 2 100500 69600 100950 69600 0 
+hades.signals.SignalStdLogic1164 n97 2 Double_Dabble_4_Bit34 O3 Double_Dabble_4_Bit33 i3 1 2 54900 72900 56250 73050 0 
+hades.signals.SignalStdLogic1164 n213 2 Double_Dabble_4_Bit24 O4 Double_Dabble_4_Bit16 i2 4 2 89100 76950 89400 76950 2 89400 76950 89400 78150 2 101100 78150 100650 78150 2 100650 78150 89400 78150 0 
+hades.signals.SignalStdLogic1164 n96 2 Double_Dabble_4_Bit32 O3 Double_Dabble_4_Bit31 i3 1 2 67500 71700 68100 71400 0 
+hades.signals.SignalStdLogic1164 n212 2 Double_Dabble_4_Bit17 O4 Double_Dabble_4_Bit16 i0 3 2 100500 75750 100800 75750 2 100800 75750 100800 76950 2 100800 76950 101100 76950 0 
+hades.signals.SignalStdLogic1164 n95 2 Double_Dabble_4_Bit34 O2 Double_Dabble_4_Bit33 i2 1 2 56250 72450 54900 72300 0 
+hades.signals.SignalStdLogic1164 n179 2 Double_Dabble_4_Bit8 O3 Double_Dabble_4_Bit5 i3 1 2 117000 76950 117450 76950 0 
+hades.signals.SignalStdLogic1164 n211 2 Double_Dabble_4_Bit14 O2 Double_Dabble_4_Bit11 i2 1 2 106650 70200 105750 70200 0 
+hades.signals.SignalStdLogic1164 n94 2 Double_Dabble_4_Bit32 O2 Double_Dabble_4_Bit31 i2 1 2 68100 70800 67500 71100 0 
+hades.signals.SignalStdLogic1164 n178 2 Double_Dabble_4_Bit8 O2 Double_Dabble_4_Bit5 i2 1 2 117450 76350 117000 76350 0 
+hades.signals.SignalStdLogic1164 n93 2 Double_Dabble_4_Bit11 O1 Double_Dabble_4_Bit4 i1 1 2 111450 69000 112050 69000 0 
+hades.signals.SignalStdLogic1164 n210 2 Double_Dabble_4_Bit14 O3 Double_Dabble_4_Bit11 i3 1 2 105750 70800 106650 70800 0 
+hades.signals.SignalStdLogic1164 n177 2 Double_Dabble_4_Bit8 O1 Double_Dabble_4_Bit5 i1 1 2 117000 75750 117450 75750 0 
+hades.signals.SignalStdLogic1164 n92 2 Double_Dabble_4_Bit34 O1 Double_Dabble_4_Bit33 i1 1 2 54900 71700 56250 71850 0 
+hades.signals.SignalStdLogic1164 n176 2 Double_Dabble_4_Bit7 O2 Double_Dabble_4_Bit3 i2 1 2 117450 72750 117000 72750 0 
+hades.signals.SignalStdLogic1164 n91 2 i33 Y11 Double_Dabble_4_Bit32 i0 6 2 62700 70500 60900 70500 2 60900 70500 60900 70350 2 -12000 61950 -12000 62400 2 60900 69300 -12000 69300 2 -12000 69300 -12000 62400 2 60900 69300 60900 70350 0 
+hades.signals.SignalStdLogic1164 n175 2 Double_Dabble_4_Bit7 O1 Double_Dabble_4_Bit3 i1 2 2 117000 72150 117300 72150 2 117300 72150 117450 72150 0 
+hades.signals.SignalStdLogic1164 n90 2 i33 Y13 Double_Dabble_4_Bit34 i0 5 2 50100 71700 49800 71700 2 49800 71700 49500 71700 2 49500 71700 49500 70800 2 49500 70800 -13350 70800 2 -13350 70800 -13200 61950 0 
+hades.signals.SignalStdLogic1164 n174 2 Double_Dabble_4_Bit29 O4 Double_Dabble_4_Bit27 i0 3 2 78300 70800 78600 70800 2 78600 70800 78600 71850 2 78600 71850 78900 71850 0 
 hades.signals.SignalStdLogic1164 n173 2 i63 Y0 i71 G 1 2 111450 300 111600 2250 0 
 hades.signals.SignalStdLogic1164 n172 2 i63 Y1 i71 F 1 2 111300 2250 110850 300 0 
 hades.signals.SignalStdLogic1164 n171 2 i63 Y2 i71 E 1 2 110250 300 111000 2250 0 
 hades.signals.SignalStdLogic1164 n170 2 i63 Y3 i71 D 1 2 110700 2250 109650 300 0 
-hades.signals.SignalStdLogic1164 n209 2 Double_Dabble_4_Bit33 O1 Double_Dabble_4_Bit32 i1 1 2 106200 76950 105450 76950 0 
-hades.signals.SignalStdLogic1164 n208 2 Double_Dabble_4_Bit26 O4 Double_Dabble_4_Bit32 i0 3 2 106200 76350 105600 76350 2 105600 76350 105600 75150 2 105600 75150 105150 75150 0 
-hades.signals.SignalStdLogic1164 n207 2 Double_Dabble_4_Bit24 O4 Double_Dabble_4_Bit30 i0 3 2 117600 75150 117150 75150 2 117150 75150 117150 73950 2 117150 73950 116850 73950 0 
-hades.signals.SignalStdLogic1164 n206 2 Double_Dabble_4_Bit25 O4 Double_Dabble_4_Bit31 i0 3 2 110850 74550 111450 74550 2 111450 74550 111450 75750 2 111450 75750 112050 75750 0 
-hades.signals.SignalStdLogic1164 n89 2 Double_Dabble_4_Bit12 O1 Double_Dabble_4_Bit11 i1 1 2 54600 71700 55650 71550 0 
-hades.signals.SignalStdLogic1164 n205 2 Double_Dabble_4_Bit32 O3 Double_Dabble_4_Bit31 i3 1 2 112050 77550 111000 77550 0 
-hades.signals.SignalStdLogic1164 n88 2 i33 Y10 Double_Dabble_4_Bit9 i0 6 2 -11400 61950 -11400 62400 2 67350 69750 66750 69750 2 66750 69750 66750 68700 2 66750 68700 -11400 68700 2 -11400 68700 -11400 62550 2 -11400 62550 -11400 62400 0 
-hades.signals.SignalStdLogic1164 n204 2 Double_Dabble_4_Bit32 O2 Double_Dabble_4_Bit31 i2 1 2 112050 76950 111000 76950 0 
-hades.signals.SignalStdLogic1164 n87 2 i33 Y9 Double_Dabble_4_Bit8 i0 6 2 -10800 61950 -10800 62400 2 -10800 62400 -10800 68100 2 -10800 68100 48000 67950 2 72900 69150 72450 69150 2 72450 69150 72450 67950 2 72450 67950 48000 67950 0 
-hades.signals.SignalStdLogic1164 n203 2 Double_Dabble_4_Bit32 O1 Double_Dabble_4_Bit31 i1 1 2 111000 76350 112050 76350 0 
-hades.signals.SignalStdLogic1164 n86 2 i33 Y8 Double_Dabble_4_Bit7 i0 5 2 -10200 61950 -10200 62400 2 78450 68550 78000 68550 2 78000 68550 78000 67500 2 78000 67500 -10350 67500 2 -10350 67500 -10200 62400 0 
-hades.signals.SignalStdLogic1164 n202 2 Double_Dabble_4_Bit31 O3 Double_Dabble_4_Bit30 i3 1 2 117600 76950 116850 76950 0 
-hades.signals.SignalStdLogic1164 n85 2 i33 Y7 Double_Dabble_4_Bit6 i0 5 2 -9600 61950 -9600 62400 2 84000 67800 83700 67800 2 83700 67800 83700 67050 2 83700 67050 -9600 67050 2 -9600 67050 -9600 62400 0 
+hades.signals.SignalStdLogic1164 n209 2 Double_Dabble_4_Bit14 O4 Double_Dabble_4_Bit12 i0 3 2 106800 72750 106200 72750 2 106200 72750 106200 71400 2 106200 71400 105750 71400 0 
+hades.signals.SignalStdLogic1164 n208 2 Double_Dabble_4_Bit15 O1 Double_Dabble_4_Bit12 i1 1 2 106800 73350 105900 73350 0 
+hades.signals.SignalStdLogic1164 n207 2 Double_Dabble_4_Bit13 O1 Double_Dabble_4_Bit8 i1 1 2 111600 76350 112200 76350 0 
+hades.signals.SignalStdLogic1164 n206 2 Double_Dabble_4_Bit12 O4 Double_Dabble_4_Bit8 i0 3 2 111600 74550 111900 74550 2 111900 74550 111900 75750 2 111900 75750 112200 75750 0 
+hades.signals.SignalStdLogic1164 n89 2 Double_Dabble_4_Bit34 O4 Double_Dabble_4_Bit30 i2 3 2 54900 73500 55200 73500 2 67950 74250 55200 74250 2 55200 73500 55200 74250 0 
+hades.signals.SignalStdLogic1164 n205 2 Double_Dabble_4_Bit12 O3 Double_Dabble_4_Bit7 i3 1 2 111600 73950 112200 73950 0 
+hades.signals.SignalStdLogic1164 n88 2 Double_Dabble_4_Bit32 O1 Double_Dabble_4_Bit31 i1 1 2 67500 70500 68100 70200 0 
+hades.signals.SignalStdLogic1164 n204 2 Double_Dabble_4_Bit12 O2 Double_Dabble_4_Bit7 i2 1 2 112200 73350 111600 73350 0 
+hades.signals.SignalStdLogic1164 n87 2 Double_Dabble_4_Bit30 O1 Double_Dabble_4_Bit28 i1 1 2 72750 73050 73350 73050 0 
+hades.signals.SignalStdLogic1164 n203 2 Double_Dabble_4_Bit12 O1 Double_Dabble_4_Bit7 i1 1 2 111600 72750 112200 72750 0 
+hades.signals.SignalStdLogic1164 n86 2 i33 Y8 Double_Dabble_4_Bit26 i0 5 2 78900 68400 78000 68400 2 -10200 61950 -10200 62400 2 78000 67500 -10350 67500 2 -10350 67500 -10200 62400 2 78000 67500 78000 68400 0 
+hades.signals.SignalStdLogic1164 n202 2 Double_Dabble_4_Bit11 O4 Double_Dabble_4_Bit7 i0 3 2 111450 70800 111750 70800 2 111750 70800 111750 72150 2 111750 72150 112200 72150 0 
+hades.signals.SignalStdLogic1164 n85 2 Double_Dabble_4_Bit26 O1 Double_Dabble_4_Bit25 i1 1 2 83700 68400 84300 68400 0 
 hades.signals.SignalStdLogic1164 n169 2 i63 Y4 i71 C 1 2 109050 300 110400 2250 0 
-hades.signals.SignalStdLogic1164 n201 2 Double_Dabble_4_Bit31 O2 Double_Dabble_4_Bit30 i2 1 2 117600 76350 116850 76350 0 
-hades.signals.SignalStdLogic1164 n84 2 i33 Y5 Double_Dabble_4_Bit1 i0 7 2 -8400 61950 -8400 62400 2 -8400 62400 -8400 65700 2 -8400 65700 81000 65850 2 94800 66600 94500 66600 2 94500 66600 94500 65850 2 94500 65850 81150 65850 2 81000 65850 81150 65850 0 
+hades.signals.SignalStdLogic1164 n201 2 Double_Dabble_4_Bit7 O4 Double_Dabble_4_Bit5 i0 3 2 117450 75150 117150 75150 2 117150 75150 117150 73950 2 117150 73950 117000 73950 0 
+hades.signals.SignalStdLogic1164 n84 2 Double_Dabble_4_Bit20 O4 Double_Dabble_4_Bit18 i0 3 2 94650 69000 95100 69000 2 95100 69000 95100 70200 2 95100 70200 95550 70200 0 
 hades.signals.SignalStdLogic1164 n168 2 i63 Y5 i71 B 1 2 110100 2250 108450 300 0 
-hades.signals.SignalStdLogic1164 n200 2 Double_Dabble_4_Bit30 O1 unnamed3 CC 3 2 122400 75150 128250 75150 2 128250 75150 128250 76200 2 128250 76200 131100 76200 0 
-hades.signals.SignalStdLogic1164 n83 2 Double_Dabble_4_Bit6 O3 Double_Dabble_4_Bit5 i3 1 2 88800 69000 89400 69000 0 
+hades.signals.SignalStdLogic1164 n200 2 Double_Dabble_4_Bit7 O3 Double_Dabble_4_Bit3 i3 1 2 117450 73350 117000 73350 0 
+hades.signals.SignalStdLogic1164 n83 2 Double_Dabble_4_Bit25 O2 Double_Dabble_4_Bit20 i2 1 2 89850 68400 89100 68400 0 
 hades.signals.SignalStdLogic1164 n167 2 i63 Y6 i71 A 1 2 109800 2250 107850 300 0 
-hades.signals.SignalStdLogic1164 n82 2 Double_Dabble_4_Bit6 O2 Double_Dabble_4_Bit5 i2 1 2 89400 68400 88800 68400 0 
+hades.signals.SignalStdLogic1164 n82 2 Double_Dabble_4_Bit25 O1 Double_Dabble_4_Bit20 i1 1 2 89100 67800 89850 67800 0 
 hades.signals.SignalStdLogicVector n166 16 5 i28 Y i2 A i30 A0 i1 A Para_corroborar_operaciones A 20 2 -18150 56250 -18150 54750 2 -12900 56850 -12900 56400 2 -16650 54750 -16650 53550 2 -16650 53550 -14100 53550 2 -14100 53550 -14100 54300 2 -14100 53550 -11550 53550 2 -11550 53550 -11550 56250 2 -11550 56250 -11550 56400 2 -11550 56400 -12900 56400 2 -14100 53550 -14100 49050 2 29400 58500 29400 58800 2 29400 57000 29400 58500 2 29400 58800 5250 58800 2 5250 58800 5250 49050 2 64950 58800 64800 58800 2 29400 58800 64950 58800 2 64950 58800 64950 14400 2 97800 14400 64950 14400 2 5250 49050 -14100 49050 2 -16650 54750 -18150 54750 3 -14100 53550 29400 58800 64950 58800 
-hades.signals.SignalStdLogic1164 n81 2 i33 Y3 Double_Dabble_4_Bit3 i0 6 2 -7200 61950 -7200 62400 2 -7200 62400 -7200 64950 2 -7200 64950 69750 64950 2 69750 64950 105450 64950 2 106050 65400 105450 65400 2 105450 65400 105450 64950 0 
-hades.signals.SignalStdLogic1164 n165 2 Double_Dabble_4_Bit23 O3 unnamed AA 3 2 122400 72750 129900 72750 2 129900 72750 129900 70650 2 129900 70650 131100 70650 0 
-hades.signals.SignalStdLogic1164 n80 2 Double_Dabble_4_Bit6 O1 Double_Dabble_4_Bit5 i1 1 2 88800 67800 89400 67800 0 
-hades.signals.SignalStdLogic1164 n164 2 Double_Dabble_4_Bit23 O2 unnamed BB 3 2 122400 72150 129600 72150 2 129600 72150 129600 71250 2 129600 71250 131100 71250 0 
-hades.signals.SignalStdLogic1164 n163 2 Double_Dabble_4_Bit23 O1 unnamed CC 3 2 131100 71850 128400 71850 2 128400 71850 128400 71550 2 122400 71550 128400 71550 0 
-hades.signals.SignalStdLogic1164 n162 2 Double_Dabble_4_Bit13 O1 unnamed2 CC 3 2 130950 66900 129150 66900 2 129150 66900 129150 67800 2 122400 67800 129150 67800 0 
-hades.signals.SignalStdLogic1164 n161 2 Double_Dabble_4_Bit24 O1 Double_Dabble_4_Bit23 i1 1 2 117600 72150 116850 72150 0 
-hades.signals.SignalStdLogicVector n160 7 2 unnamed1 i17 i35 A 6 2 117600 -900 117600 -2850 2 137400 -2850 144000 -2850 2 135750 60000 144000 60000 2 144000 60000 144000 1200 2 144000 1200 144000 -2850 2 137400 -2850 117600 -2850 0 
+hades.signals.SignalStdLogic1164 n81 2 Double_Dabble_4_Bit10 O3 Double_Dabble_4_Bit9 i3 1 2 106500 67200 105600 67200 0 
+hades.signals.SignalStdLogic1164 n165 2 Double_Dabble_4_Bit4 O3 Double_Dabble_4_Bit2 i3 1 2 117450 69600 116850 69600 0 
+hades.signals.SignalStdLogic1164 n80 2 Double_Dabble_4_Bit25 O4 Double_Dabble_4_Bit21 i0 3 2 89850 70800 89400 70800 2 89400 70800 89400 69600 2 89400 69600 89100 69600 0 
+hades.signals.SignalStdLogic1164 n164 2 Double_Dabble_4_Bit4 O2 Double_Dabble_4_Bit2 i2 1 2 117450 69000 116850 69000 0 
+hades.signals.SignalStdLogic1164 n163 2 Double_Dabble_4_Bit3 O3 unnamed2 AA 5 2 122250 72750 122400 72750 2 131550 70650 131100 70650 2 122250 72750 129900 72750 2 129900 72750 129900 70650 2 129900 70650 131100 70650 0 
+hades.signals.SignalStdLogic1164 n162 2 Double_Dabble_4_Bit1 O2 Double_Dabble_4_Bit i2 1 2 117450 65400 116700 65400 0 
+hades.signals.SignalStdLogic1164 n161 2 Double_Dabble_4_Bit4 O4 Double_Dabble_4_Bit3 i0 3 2 116850 70200 117150 70200 2 117150 70200 117150 71550 2 117450 71550 117150 71550 0 
+hades.signals.SignalStdLogicVector n160 7 2 unnamed1 i17 i35 A 6 2 117600 -900 117600 -2850 2 137400 -2850 144000 -2850 2 135900 60000 144000 60000 2 144000 60000 144000 1200 2 144000 1200 144000 -2850 2 137400 -2850 117600 -2850 0 
 hades.signals.SignalStdLogic1164 n19_1 5 i3 Y4 i50 A i48 A i49 A i60 B 17 2 21600 33600 21600 31200 2 21600 31200 19800 31200 2 19800 31200 17400 31200 2 17400 31200 16800 31200 2 16800 31200 16800 23400 2 18600 14400 18600 18000 2 22800 18600 22800 18000 2 22800 18000 18600 18000 2 16800 23400 16800 18000 2 16800 18000 18600 18000 2 18600 18600 18600 18000 2 16800 31200 16800 40800 2 16800 40800 -2400 40800 2 -2400 40800 -2400 46200 2 -2400 46200 600 46200 2 18600 14400 18000 14400 2 18000 14400 18000 11400 2 16800 31200 18600 18000 
-hades.signals.SignalStdLogic1164 n79 2 Double_Dabble_4_Bit5 O3 Double_Dabble_4_Bit1 i3 1 2 94800 68400 94200 68400 0 
-hades.signals.SignalStdLogic1164 n78 2 Double_Dabble_4_Bit5 O2 Double_Dabble_4_Bit1 i2 1 2 94800 67800 94200 67800 0 
-hades.signals.SignalStdLogic1164 n77 2 Double_Dabble_4_Bit11 O4 Double_Dabble_4_Bit22 i1 4 2 60450 72750 61350 72750 2 61350 72750 61350 73650 2 61350 73650 61350 73800 2 61350 73800 67350 73800 0 
+hades.signals.SignalStdLogic1164 n79 2 Double_Dabble_4_Bit20 O3 Double_Dabble_4_Bit19 i3 1 2 94650 68400 95400 68400 0 
+hades.signals.SignalStdLogic1164 n78 2 Double_Dabble_4_Bit20 O2 Double_Dabble_4_Bit19 i2 1 2 95400 67800 94650 67800 0 
+hades.signals.SignalStdLogic1164 n77 2 Double_Dabble_4_Bit31 O1 Double_Dabble_4_Bit29 i1 1 2 72900 69600 73500 69600 0 
 hades.signals.SignalStdLogic1164 n76 2 i62 Y0 i32 G 1 2 114150 2250 116400 300 0 
 hades.signals.SignalStdLogic1164 n75 2 i62 Y1 i32 F 1 2 115800 300 113850 2250 0 
-hades.signals.SignalStdLogic1164 n159 2 Double_Dabble_4_Bit12 O4 Double_Dabble_4_Bit22 i2 3 2 67350 74400 55200 74400 2 55200 74400 55200 73500 2 55200 73500 54600 73500 0 
 hades.signals.SignalStdLogic1164 n74 2 i62 Y2 i32 E 1 2 113550 2250 115200 300 0 
-hades.signals.SignalStdLogic1164 n158 2 Double_Dabble_4_Bit11 O3 Double_Dabble_4_Bit10 i3 1 2 61800 72150 60450 72150 0 
-hades.signals.SignalStdLogic1164 n73 2 Double_Dabble_4_Bit10 O1 Double_Dabble_4_Bit9 i1 1 2 67350 70350 66600 70350 0 
-hades.signals.SignalStdLogic1164 n157 2 Double_Dabble_4_Bit22 O3 Double_Dabble_4_Bit21 i3 1 2 72900 74400 72150 74400 0 
-hades.signals.SignalStdLogic1164 n72 2 Double_Dabble_4_Bit5 O1 Double_Dabble_4_Bit1 i1 1 2 94800 67200 94200 67200 0 
-hades.signals.SignalStdLogic1164 n156 2 Double_Dabble_4_Bit22 O2 Double_Dabble_4_Bit21 i2 1 2 72150 73800 72900 73800 0 
-hades.signals.SignalStdLogic1164 n71 2 Double_Dabble_4_Bit1 O3 Double_Dabble_4_Bit4 i3 1 2 100350 67800 99600 67800 0 
-hades.signals.SignalStdLogic1164 n155 2 Double_Dabble_4_Bit22 O1 Double_Dabble_4_Bit21 i1 1 2 72150 73200 72900 73200 0 
-hades.signals.SignalStdLogic1164 n70 2 Double_Dabble_4_Bit1 O2 Double_Dabble_4_Bit4 i2 1 2 100350 67200 99600 67200 0 
-hades.signals.SignalStdLogic1164 n154 2 Double_Dabble_4_Bit9 O4 Double_Dabble_4_Bit21 i0 3 2 72150 71550 72450 71550 2 72450 71550 72450 72600 2 72450 72600 72900 72600 0 
-hades.signals.SignalStdLogic1164 n153 2 Double_Dabble_4_Bit21 O3 Double_Dabble_4_Bit20 i3 1 2 77700 73800 78450 73800 0 
-hades.signals.SignalStdLogic1164 n152 2 Double_Dabble_4_Bit21 O2 Double_Dabble_4_Bit20 i2 1 2 78450 73200 77700 73200 0 
-hades.signals.SignalStdLogic1164 n151 2 Double_Dabble_4_Bit21 O1 Double_Dabble_4_Bit20 i1 1 2 78450 72600 77700 72600 0 
-hades.signals.SignalStdLogic1164 n150 2 Double_Dabble_4_Bit8 O4 Double_Dabble_4_Bit20 i0 3 2 78450 72000 78000 72000 2 78000 72000 78000 70950 2 78000 70950 77700 70950 0 
+hades.signals.SignalStdLogic1164 n159 2 Double_Dabble_4_Bit33 O4 Double_Dabble_4_Bit30 i1 3 2 61050 73050 61350 73050 2 67950 73650 61350 73650 2 61350 73650 61350 73050 0 
+hades.signals.SignalStdLogic1164 n73 2 i33 Y10 Double_Dabble_4_Bit31 i0 6 2 68100 69600 66750 69600 2 -11400 61950 -11400 62400 2 66750 68700 -11400 68700 2 -11400 68700 -11400 62550 2 -11400 62550 -11400 62400 2 66750 68700 66750 69600 0 
+hades.signals.SignalStdLogic1164 n158 2 Double_Dabble_4_Bit33 O3 Double_Dabble_4_Bit32 i3 1 2 62700 72300 61050 72450 0 
+hades.signals.SignalStdLogic1164 n72 2 Double_Dabble_4_Bit20 O1 Double_Dabble_4_Bit19 i1 1 2 94650 67200 95400 67200 0 
+hades.signals.SignalStdLogic1164 n157 2 Double_Dabble_4_Bit31 O4 Double_Dabble_4_Bit28 i0 3 2 72900 71400 73200 71400 2 73200 71400 73200 72450 2 73200 72450 73350 72450 0 
+hades.signals.SignalStdLogic1164 n71 2 Double_Dabble_4_Bit19 O3 Double_Dabble_4_Bit10 i3 1 2 100200 67800 100800 67800 0 
+hades.signals.SignalStdLogic1164 n156 2 Double_Dabble_4_Bit31 O3 Double_Dabble_4_Bit29 i3 1 2 72900 70800 73500 70800 0 
+hades.signals.SignalStdLogic1164 n70 2 Double_Dabble_4_Bit19 O2 Double_Dabble_4_Bit10 i2 1 2 100800 67200 100200 67200 0 
+hades.signals.SignalStdLogic1164 n155 2 Double_Dabble_4_Bit31 O2 Double_Dabble_4_Bit29 i2 1 2 73500 70200 72900 70200 0 
+hades.signals.SignalStdLogic1164 n154 2 i33 Y14 Double_Dabble_4_Bit34 i1 7 2 50100 72300 49800 72300 2 49800 72300 44100 72300 2 44100 72300 43650 72300 2 43650 72300 43650 71250 2 43650 71250 -13650 71250 2 -13650 71250 -13800 71250 2 -13800 71250 -13800 61950 0 
+hades.signals.SignalStdLogic1164 n153 2 Double_Dabble_4_Bit29 O3 Double_Dabble_4_Bit26 i3 1 2 78900 70200 78300 70200 0 
+hades.signals.SignalStdLogic1164 n152 2 Double_Dabble_4_Bit29 O2 Double_Dabble_4_Bit26 i2 1 2 78900 69600 78300 69600 0 
+hades.signals.SignalStdLogic1164 n151 2 Double_Dabble_4_Bit29 O1 Double_Dabble_4_Bit26 i1 1 2 78300 69000 78900 69000 0 
+hades.signals.SignalStdLogic1164 n150 2 Double_Dabble_4_Bit28 O1 Double_Dabble_4_Bit27 i1 1 2 78150 72450 78900 72450 0 
 hades.signals.SignalStdLogicVector n275_0_1_1 4 2 i139 Y i120 A 10 2 25500 97500 25500 96450 2 25500 96450 22950 96450 2 12150 102600 12150 102900 2 12150 102900 18900 102900 2 18900 102900 18900 99900 2 18900 99900 18900 99000 2 18900 99000 18900 96600 2 22950 96600 19050 96600 2 19050 96600 18900 96600 2 22950 96600 22950 96450 0 
-hades.signals.SignalStdLogic1164 n69 2 Double_Dabble_4_Bit1 O1 Double_Dabble_4_Bit4 i1 1 2 99600 66600 100350 66600 0 
-hades.signals.SignalStdLogic1164 n68 2 i33 Y6 Double_Dabble_4_Bit5 i0 6 2 -9000 61950 -9000 62400 2 -9000 62400 -9000 66450 2 -9000 66450 56250 66450 2 89400 67200 89100 67200 2 89100 67200 89100 66450 2 89100 66450 56250 66450 0 
-hades.signals.SignalStdLogic1164 n67 2 i33 Y2 Double_Dabble_4_Bit2 i0 6 2 -6600 61950 -6600 62400 2 -6600 62400 -6600 64200 2 -6600 64200 32400 64200 2 111900 64800 111300 64800 2 111300 64800 111300 64050 2 111300 64050 32400 64200 0 
-hades.signals.SignalStdLogic1164 n66 2 Double_Dabble_4_Bit4 O3 Double_Dabble_4_Bit3 i3 1 2 106050 67200 105150 67200 0 
+hades.signals.SignalStdLogic1164 n69 2 Double_Dabble_4_Bit19 O1 Double_Dabble_4_Bit10 i1 1 2 100200 66600 100800 66600 0 
+hades.signals.SignalStdLogic1164 n68 2 i33 Y7 Double_Dabble_4_Bit25 i0 6 2 84300 67800 84000 67800 2 -9600 61950 -9600 62400 2 84000 67800 83700 67800 2 83700 67800 83700 67050 2 83700 67050 -9600 67050 2 -9600 67050 -9600 62400 0 
+hades.signals.SignalStdLogic1164 n67 2 Double_Dabble_4_Bit1 O1 Double_Dabble_4_Bit i1 1 2 116700 64800 117450 64800 0 
 hades.signals.SignalStdLogic1164 n246_1 3 i2 Y i30 S i74 G 20 2 -18150 56850 -18150 58050 2 -15300 58050 -18150 58050 2 -18150 58050 -18150 60300 2 31500 60300 85950 60300 2 85950 60300 127050 60450 2 127050 59100 140850 59100 2 140850 59100 141150 59100 2 141150 59100 141150 19650 2 96750 -4950 124350 -4950 2 124350 -4950 142950 -4950 2 142950 -4950 142950 11250 2 142950 11250 141150 11250 2 141150 11250 141150 13950 2 141150 13950 141150 19650 2 96750 -4950 96450 -4950 2 96450 -4950 96450 1350 2 96450 1350 98700 1350 2 98700 1350 103650 2250 2 127050 59100 127050 60450 2 31500 60300 -18150 60300 1 -18150 58050 
-hades.signals.SignalStdLogic1164 n65 2 Double_Dabble_4_Bit4 O2 Double_Dabble_4_Bit3 i2 1 2 106050 66600 105150 66600 0 
-hades.signals.SignalStdLogic1164 n149 2 Double_Dabble_4_Bit20 O3 Double_Dabble_4_Bit19 i3 1 2 84000 73200 83250 73200 0 
-hades.signals.SignalStdLogic1164 n64 2 i33 Y1 Double_Dabble_4_Bit i0 6 2 -6000 61950 -6000 62400 2 -6000 62400 -6000 63600 2 -6000 63600 50250 63600 2 117600 64200 117000 64200 2 117000 64200 117000 63600 2 117000 63600 50250 63600 0 
-hades.signals.SignalStdLogic1164 n148 2 Double_Dabble_4_Bit20 O2 Double_Dabble_4_Bit19 i2 1 2 84000 72600 83250 72600 0 
-hades.signals.SignalStdLogic1164 n63 2 Double_Dabble_4_Bit4 O1 Double_Dabble_4_Bit3 i1 1 2 106050 66000 105150 66000 0 
-hades.signals.SignalStdLogic1164 n147 2 Double_Dabble_4_Bit20 O1 Double_Dabble_4_Bit19 i1 1 2 84000 72000 83250 72000 0 
-hades.signals.SignalStdLogic1164 n62 2 Double_Dabble_4_Bit3 O3 Double_Dabble_4_Bit2 i3 1 2 110850 66600 111900 66600 0 
-hades.signals.SignalStdLogic1164 n146 2 Double_Dabble_4_Bit7 O4 Double_Dabble_4_Bit19 i0 3 2 84000 71400 83550 71400 2 83550 71400 83550 70350 2 83550 70350 83250 70350 0 
-hades.signals.SignalStdLogic1164 n61 2 Double_Dabble_4_Bit3 O2 Double_Dabble_4_Bit2 i2 1 2 111900 66000 110850 66000 0 
-hades.signals.SignalStdLogic1164 n145 2 Double_Dabble_4_Bit19 O3 Double_Dabble_4_Bit18 i3 1 2 88800 72600 89400 72600 0 
+hades.signals.SignalStdLogic1164 n66 2 Double_Dabble_4_Bit10 O2 Double_Dabble_4_Bit9 i2 1 2 106500 66600 105600 66600 0 
+hades.signals.SignalStdLogic1164 n65 2 Double_Dabble_4_Bit10 O1 Double_Dabble_4_Bit9 i1 1 2 105600 66000 106500 66000 0 
+hades.signals.SignalStdLogic1164 n64 2 Double_Dabble_4_Bit1 O3 Double_Dabble_4_Bit i3 1 2 117450 66000 116700 66000 0 
+hades.signals.SignalStdLogic1164 n149 2 Double_Dabble_4_Bit28 O2 Double_Dabble_4_Bit27 i2 1 2 78150 73050 78900 73050 0 
+hades.signals.SignalStdLogic1164 n63 2 i33 Y4 Double_Dabble_4_Bit10 i0 8 2 100800 66000 100500 66000 2 100500 66000 100500 65400 2 100500 65400 99900 65400 2 -7800 61950 -7800 62400 2 -7800 62400 -7800 65250 2 -7800 65250 -7800 65400 2 -7800 65400 85500 65400 2 99900 65400 85500 65400 0 
+hades.signals.SignalStdLogic1164 n148 2 Double_Dabble_4_Bit28 O3 Double_Dabble_4_Bit27 i3 1 2 78150 73650 78900 73650 0 
+hades.signals.SignalStdLogic1164 n62 2 Double_Dabble_4_Bit9 O1 Double_Dabble_4_Bit1 i1 1 2 111900 65400 111300 65400 0 
+hades.signals.SignalStdLogic1164 n147 2 Double_Dabble_4_Bit28 O4 Double_Dabble_4_Bit24 i1 6 2 78150 74250 78750 74250 2 78750 74250 78750 74550 2 78750 74550 78750 75750 2 84300 75750 84000 75750 2 84000 75750 83250 75750 2 83250 75750 78750 75750 0 
+hades.signals.SignalStdLogic1164 n61 2 Double_Dabble_4_Bit9 O2 Double_Dabble_4_Bit1 i2 1 2 111300 66000 111900 66000 0 
+hades.signals.SignalStdLogic1164 n146 2 Double_Dabble_4_Bit27 O4 Double_Dabble_4_Bit24 i0 3 2 83700 73650 83850 73650 2 83850 73650 83850 75150 2 83850 75150 84300 75150 0 
 hades.signals.SignalStdLogic1164 n60 2 i62 Y3 i32 D 1 2 114600 300 113250 2250 0 
-hades.signals.SignalStdLogic1164 n144 2 Double_Dabble_4_Bit19 O2 Double_Dabble_4_Bit18 i2 1 2 89400 72000 88800 72000 0 
-hades.signals.SignalStdLogic1164 n143 2 Double_Dabble_4_Bit19 O1 Double_Dabble_4_Bit18 i1 1 2 88800 71400 89400 71400 0 
+hades.signals.SignalStdLogic1164 n145 2 Double_Dabble_4_Bit23 O3 Double_Dabble_4_Bit21 i3 1 2 88950 72600 89850 72600 0 
+hades.signals.SignalStdLogic1164 n144 2 Double_Dabble_4_Bit23 O2 Double_Dabble_4_Bit21 i2 1 2 89850 72000 88950 72000 0 
 hades.signals.SignalStdLogic1164 n6_1 2 i47 Y i21 A 3 2 36000 45600 37200 45600 2 37200 45600 37200 46200 2 37200 46200 39000 46200 0 
-hades.signals.SignalStdLogic1164 n142 2 Double_Dabble_4_Bit6 O4 Double_Dabble_4_Bit18 i0 3 2 89400 70800 89100 70800 2 89100 70800 89100 69600 2 89100 69600 88800 69600 0 
-hades.signals.SignalStdLogic1164 n141 2 Double_Dabble_4_Bit18 O3 Double_Dabble_4_Bit17 i3 1 2 94200 72000 94800 72000 0 
-hades.signals.SignalStdLogic1164 n140 2 Double_Dabble_4_Bit18 O2 Double_Dabble_4_Bit17 i2 1 2 94800 71400 94200 71400 0 
-hades.signals.SignalStdLogic1164 n60_0 2 i33 Y0 unnamed1 DD 6 2 -5400 61950 -5400 62400 2 -5400 62400 -5400 63000 2 -5400 63000 129150 63000 2 129150 63000 130500 63000 2 130500 63000 130500 61800 2 130500 61800 130950 61800 0 
-hades.signals.SignalStdLogic1164 n59 2 Double_Dabble_4_Bit3 O1 Double_Dabble_4_Bit2 i1 1 2 111900 65400 110850 65400 0 
+hades.signals.SignalStdLogic1164 n143 2 Double_Dabble_4_Bit23 O1 Double_Dabble_4_Bit21 i1 1 2 88950 71400 89850 71400 0 
+hades.signals.SignalStdLogic1164 n142 2 Double_Dabble_4_Bit25 O3 Double_Dabble_4_Bit20 i3 1 2 89100 69000 89850 69000 0 
+hades.signals.SignalStdLogic1164 n141 2 Double_Dabble_4_Bit21 O4 Double_Dabble_4_Bit17 i0 3 2 94650 72600 95100 72600 2 95100 72600 95100 73950 2 95100 73950 95700 73950 0 
+hades.signals.SignalStdLogic1164 n140 2 Double_Dabble_4_Bit21 O3 Double_Dabble_4_Bit18 i3 1 2 94650 72000 95550 72000 0 
+hades.signals.SignalStdLogic1164 n59 2 Double_Dabble_4_Bit9 O3 Double_Dabble_4_Bit1 i3 1 2 111900 66600 111300 66600 0 
 hades.signals.SignalStdLogic1164 n58 2 i62 Y4 i32 C 1 2 114000 300 112950 2250 0 
 hades.signals.SignalStdLogic1164 n57 2 i62 Y5 i32 B 1 2 113400 300 112650 2250 0 
-hades.signals.SignalStdLogic1164 n56 2 Double_Dabble_4_Bit2 O4 Double_Dabble_4_Bit13 i0 3 2 116700 66600 117300 66600 2 117300 66600 117300 67800 2 117300 67800 117600 67800 0 
-hades.signals.SignalStdLogic1164 n55 2 Double_Dabble_4_Bit2 O3 Double_Dabble_4_Bit i3 1 2 117600 66000 116700 66000 0 
-hades.signals.SignalStdLogic1164 n139 2 Double_Dabble_4_Bit18 O1 Double_Dabble_4_Bit17 i1 1 2 94200 70800 94800 70800 0 
+hades.signals.SignalStdLogic1164 n56 2 Double_Dabble_4_Bit2 O1 unnamed CC 5 2 122250 67800 122400 67800 2 131700 66900 130950 66900 2 130950 66900 129150 66900 2 129150 66900 129150 67800 2 122400 67800 129150 67800 0 
+hades.signals.SignalStdLogic1164 n55 2 i33 Y2 Double_Dabble_4_Bit1 i0 7 2 111900 64800 111750 64800 2 111750 64800 111750 64050 2 111750 64050 111300 64050 2 -6600 61950 -6600 62400 2 -6600 62400 -6600 64200 2 -6600 64200 32400 64200 2 111300 64050 32400 64200 0 
 hades.signals.SignalStdLogic1164 n54 2 i21 Y i20 S 1 2 43800 46800 42600 46800 0 
-hades.signals.SignalStdLogic1164 n138 2 Double_Dabble_4_Bit5 O4 Double_Dabble_4_Bit17 i0 3 2 94800 70200 94500 70200 2 94500 70200 94500 69000 2 94500 69000 94200 69000 0 
+hades.signals.SignalStdLogic1164 n139 2 Double_Dabble_4_Bit21 O2 Double_Dabble_4_Bit18 i2 1 2 95550 71400 94650 71400 0 
 hades.signals.SignalStdLogic1164 n53 6 i3 Y5 i22 S i53 A i52 A i51 A i60 A 16 2 17400 11400 17400 17400 2 19800 39600 7200 39600 2 11400 33600 11400 32400 2 11400 32400 7200 32400 2 7200 39600 7200 35400 2 9000 18600 9000 17400 2 9000 17400 12600 17400 2 12600 18600 12600 17400 2 9000 17400 7200 17400 2 7200 17400 7200 32400 2 7200 35400 7200 32400 2 7200 39600 7200 41400 2 7200 41400 -1200 41400 2 -1200 41400 -1200 45000 2 -1200 45000 600 45000 2 12600 17400 17400 17400 4 7200 39600 7200 32400 9000 17400 12600 17400 
-hades.signals.SignalStdLogic1164 n137 2 Double_Dabble_4_Bit17 O3 Double_Dabble_4_Bit16 i3 1 2 100350 71400 99600 71400 0 
+hades.signals.SignalStdLogic1164 n138 2 Double_Dabble_4_Bit21 O1 Double_Dabble_4_Bit18 i1 1 2 94650 70800 95550 70800 0 
 hades.signals.SignalStdLogicVector n52 16 2 i20 Y i28 A0 3 2 30000 55200 30000 52200 2 45600 47400 45600 52200 2 45600 52200 30000 52200 0 
-hades.signals.SignalStdLogic1164 n136 2 Double_Dabble_4_Bit17 O2 Double_Dabble_4_Bit16 i2 1 2 99600 70800 100350 70800 0 
-hades.signals.SignalStdLogic1164 n51 2 Double_Dabble_4_Bit2 O2 Double_Dabble_4_Bit i2 1 2 117600 65400 116700 65400 0 
-hades.signals.SignalStdLogic1164 n135 2 Double_Dabble_4_Bit17 O1 Double_Dabble_4_Bit16 i1 1 2 99600 70200 100350 70200 0 
+hades.signals.SignalStdLogic1164 n137 2 Double_Dabble_4_Bit18 O4 Double_Dabble_4_Bit15 i0 3 2 100350 72000 100650 72000 2 100650 72000 100650 73350 2 100650 73350 101100 73350 0 
+hades.signals.SignalStdLogic1164 n136 2 Double_Dabble_4_Bit18 O3 Double_Dabble_4_Bit14 i3 1 2 100350 71400 100950 71400 0 
+hades.signals.SignalStdLogic1164 n51 2 Double_Dabble_4_Bit1 O4 Double_Dabble_4_Bit2 i0 3 2 117450 67800 117150 67800 2 117150 67800 117150 66600 2 117150 66600 116700 66600 0 
 hades.signals.SignalStdLogic1164 n50 2 i15 Y i61 B 1 2 16200 57000 12600 57000 0 
-hades.signals.SignalStdLogic1164 n134 2 Double_Dabble_4_Bit1 O4 Double_Dabble_4_Bit16 i0 3 2 100350 69600 99900 69600 2 99900 69600 99900 68400 2 99900 68400 99600 68400 0 
-hades.signals.SignalStdLogic1164 n133 2 Double_Dabble_4_Bit O4 unnamed2 DD 4 2 128400 67500 128400 66150 2 128400 66150 128400 66000 2 128400 66000 122400 66000 2 128400 67500 130950 67500 0 
-hades.signals.SignalStdLogic1164 n132 2 Double_Dabble_4_Bit13 O2 unnamed2 BB 4 2 129900 68400 122400 68400 2 129900 68400 129900 67350 2 129900 67350 129900 66300 2 129900 66300 130950 66300 0 
-hades.signals.SignalStdLogic1164 n131 2 Double_Dabble_4_Bit14 O4 Double_Dabble_4_Bit23 i0 3 2 116700 70200 117000 70200 2 117000 70200 117000 71550 2 117000 71550 117600 71550 0 
-hades.signals.SignalStdLogic1164 n130 2 Double_Dabble_4_Bit16 O3 Double_Dabble_4_Bit15 i3 1 2 106050 70800 105150 70800 0 
+hades.signals.SignalStdLogic1164 n135 2 Double_Dabble_4_Bit18 O2 Double_Dabble_4_Bit14 i2 1 2 100350 70800 100950 70800 0 
+hades.signals.SignalStdLogic1164 n134 2 Double_Dabble_4_Bit18 O1 Double_Dabble_4_Bit14 i1 1 2 100350 70200 100950 70200 0 
+hades.signals.SignalStdLogicVector n133 7 2 unnamed2 i17 i63 A 8 2 136350 70650 143400 70650 2 107850 -900 108000 -3600 2 108000 -3600 145500 -3600 2 145500 -3600 145500 13200 2 145500 13200 143400 13200 2 143400 13200 143400 21150 2 143400 21150 143400 55650 2 143400 55650 143400 70650 0 
+hades.signals.SignalStdLogic1164 n132 2 Double_Dabble_4_Bit3 O2 unnamed2 BB 5 2 122250 72150 122400 72150 2 131550 71250 131100 71250 2 122250 72150 129600 72150 2 129600 72150 129600 71250 2 129600 71250 131100 71250 0 
+hades.signals.SignalStdLogic1164 n131 2 Double_Dabble_4_Bit4 O1 Double_Dabble_4_Bit2 i1 1 2 116850 68400 117450 68400 0 
+hades.signals.SignalStdLogic1164 n174_0 2 i33 Y6 Double_Dabble_4_Bit20 i0 8 2 89850 67200 89550 67200 2 89550 67200 89550 66600 2 89550 66600 89550 66450 2 89550 66450 89100 66450 2 -9000 61950 -9000 62400 2 -9000 62400 -9000 66450 2 -9000 66450 56250 66450 2 89100 66450 56250 66450 0 
+hades.signals.SignalStdLogic1164 n130 2 Double_Dabble_4_Bit16 O2 Double_Dabble_4_Bit13 i2 1 2 106800 77550 105900 77550 0 
 hades.signals.SignalStdLogic1164 n388_0 2 Sign-B Y i69 A 4 2 81900 -26250 82050 -26250 2 82050 -26250 82050 -12000 2 82050 -12000 64050 -12000 2 64050 -10800 64050 -12000 0 
 [end signals]
 [end]

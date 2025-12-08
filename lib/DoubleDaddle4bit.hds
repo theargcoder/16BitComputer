@@ -2,21 +2,21 @@
 #  
 [name] Double_Dabble_4_Bit
 [components]
-hades.models.rtlib.arith.Add i8 22200 13200 @N 1001 4 0000_B 1.0E-8
+hades.models.rtlib.arith.Add i8 22200 13200 @N 1001 4 UUUU_B 1.0E-8
 hades.models.rtlib.io.Constant i6 27600 1200 @N 1001 4 0100_B 1.0E-8
-hades.models.rtlib.compare.CompareGreater i5 23400 4800 @N 1001 4 0 1.0E-8
+hades.models.rtlib.compare.CompareGreater i5 23400 4800 @N 1001 4 X 1.0E-8
 hades.models.rtlib.io.MergeBits i4 24000 1800 @N 1001 4 1.0E-8
+hades.models.io.Ipin i3 15000 -600 @N 1001 null U
 hades.models.io.Opin O4 39000 6000 @N 1001 5.0E-9
-hades.models.io.Ipin i3 15000 -600 @N 1001  U
+hades.models.io.Ipin i2 15000 -1800 @N 1001 null U
 hades.models.io.Opin O3 39000 4800 @N 1001 5.0E-9
-hades.models.io.Ipin i2 15000 -1800 @N 1001  U
+hades.models.io.Ipin i1 15000 -3000 @N 1001 null U
 hades.models.io.Opin O2 39000 3600 @N 1001 5.0E-9
-hades.models.io.Ipin i1 15000 -3000 @N 1001  U
+hades.models.io.Ipin i0 15000 -4200 @N 1001 null U
 hades.models.io.Opin O1 39000 2400 @N 1001 5.0E-9
-hades.models.io.Ipin i0 15000 -4200 @N 1001  U
 hades.models.rtlib.io.Expander i12 34800 -1200 @N 1001 4 1.0E-8
 hades.models.rtlib.io.Constant i10 28200 6000 @N 1001 4 0011_B 1.0E-8
-hades.models.rtlib.logic.N1And i9 24000 9600 @N 1001 4 0000_B 1.0E-8
+hades.models.rtlib.logic.N1And i9 24000 9600 @N 1001 4 00XX_B 1.0E-8
 [end components]
 [signals]
 hades.signals.SignalStdLogicVector n9 4 2 i8 SUM i12 A 5 2 35400 -2400 33600 -2400 2 33600 -2400 33600 16800 2 33600 16800 24600 16800 2 24600 16800 24600 15600 2 35400 -2400 35400 -1200 0 
@@ -27,10 +27,10 @@ hades.signals.SignalStdLogicVector n5 4 2 i6 Y i5 B 5 2 29400 3000 29400 4200 2 
 hades.signals.SignalStdLogicVector n4 4 3 i4 Y i5 A i8 A 6 2 24600 3600 24600 4800 2 24600 3000 24600 3600 2 24600 3600 22800 3600 2 22800 3600 22800 12600 2 22800 12600 23400 12600 2 23400 12600 23400 13200 1 24600 3600 
 hades.signals.SignalStdLogic1164 n3 2 i3 Y i4 A3 2 2 15000 -600 24600 -600 2 24600 -600 24600 1800 0 
 hades.signals.SignalStdLogic1164 n2 2 i2 Y i4 A2 2 2 15000 -1800 25200 -1800 2 25200 -1800 25200 1800 0 
-hades.signals.SignalStdLogic1164 n14 2 i12 Y3 O4 A 3 2 39000 6000 35400 6000 2 35400 6000 35400 2400 2 35400 0 35400 2400 0 
 hades.signals.SignalStdLogic1164 n1 2 i1 Y i4 A1 2 2 15000 -3000 25800 -3000 2 25800 -3000 25800 1800 0 
-hades.signals.SignalStdLogic1164 n13 2 i12 Y1 O2 A 2 2 39000 3600 36600 3600 2 36600 3600 36600 0 0 
+hades.signals.SignalStdLogic1164 n14 2 i12 Y3 O4 A 3 2 39000 6000 35400 6000 2 35400 6000 35400 2400 2 35400 0 35400 2400 0 
 hades.signals.SignalStdLogic1164 n0 2 i0 Y i4 A0 2 2 15000 -4200 26400 -4200 2 26400 -4200 26400 1800 0 
+hades.signals.SignalStdLogic1164 n13 2 i12 Y1 O2 A 2 2 39000 3600 36600 3600 2 36600 3600 36600 0 0 
 hades.signals.SignalStdLogic1164 n11 2 i12 Y0 O1 A 2 2 39000 2400 37200 2400 2 37200 0 37200 2400 0 
 hades.signals.SignalStdLogic1164 n10 2 i12 Y2 O3 A 3 2 39000 4800 36000 4800 2 36000 4800 36000 3600 2 36000 0 36000 3600 0 
 [end signals]
